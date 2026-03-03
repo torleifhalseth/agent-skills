@@ -2,23 +2,6 @@
 
 A comprehensive AI agent skill for optimizing Norwegian language writing based on official Norwegian spelling and grammar rules.
 
-## Installation
-
-### Option 1: Local installation (per project)
-
-Copy the `norwegian-writing` folder to your project's skills directory:
-
-```bash
-mkdir -p .pi/skills
-cp -r skills/norwegian-writing .pi/skills/
-```
-
-### Option 2: Global installation
-
-```bash
-cp -r skills/norwegian-writing ~/.pi/agent/skills/
-```
-
 ## Overview
 
 This skill provides:

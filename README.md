@@ -8,31 +8,12 @@ A collection of [Agent Skills](https://agentskills.io) — folders of instructio
 | ----- | ----------- |
 | [norwegian-writing](skills/norwegian-writing) | Norwegian language writing guidelines and best practices based on official rules from Språkrådet |
 
-## Creating a New Skill
+## Installation
 
-Create a folder under `skills/` with a `SKILL.md` file following the [Agent Skills specification](https://agentskills.io/specification):
+Install a skill using the [skills CLI](https://github.com/vercel-labs/skills):
 
-```
-skills/my-skill/
-├── SKILL.md              # Required — frontmatter + instructions
-├── scripts/              # Optional — executable code
-├── references/           # Optional — additional docs (loaded on demand)
-└── assets/               # Optional — templates, images, data files
-```
-
-```markdown
----
-name: my-skill
-description: A clear description of what this skill does and when to use it.
-license: MIT
-metadata:
-  author: your-name
-  version: "1.0"
----
-
-# My Skill
-
-[Instructions that the agent will follow when this skill is active]
+```bash
+npx skills add https://github.com/torleifhalseth/skills --skill norwegian-writing
 ```
 
 ## License
