@@ -1,12 +1,6 @@
 ---
 name: norwegian-writing
-description: >-
-  Comprehensive Norwegian language writing guidelines and best practices based on
-  official Norwegian spelling and grammar rules. This skill helps optimize Norwegian
-  text for clarity, correctness, and modern usage. Use this skill when writing,
-  reviewing, or editing Norwegian text, particularly for formal documents, web
-  content, or clear communication. Keywords: Norwegian, norsk, bokmål, nynorsk,
-  rettskriving, grammar, spelling, klarspråk, plain language.
+description: Comprehensive Norwegian language writing guidelines and best practices based on official Norwegian spelling and grammar rules. This skill helps optimize Norwegian text for clarity, correctness, and modern usage. Use this skill when writing, reviewing, or editing Norwegian text, particularly for formal documents, web content, or clear communication.
 license: MIT
 metadata:
   author: torleifhalseth
