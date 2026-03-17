@@ -1,42 +1,26 @@
 ---
 name: norwegian-writing
-description: Comprehensive Norwegian language writing guidelines and best practices based on official Norwegian spelling and grammar rules. This skill helps optimize Norwegian text for clarity, correctness, and modern usage. Use this skill when writing, reviewing, or editing Norwegian text, particularly for formal documents, web content, or clear communication.
-license: MIT
-metadata:
-  author: torleifhalseth
-  version: "1.0"
+description: This skill should be used when the user asks to "write Norwegian text", "check Norwegian grammar", "review Norwegian spelling", "translate to Norwegian", "simplify Norwegian text", "check comma rules in Norwegian", "write bokmål", "write nynorsk", "use klarspråk", or needs guidance on Norwegian punctuation, capitalization, compound words, or sensitive language.
+version: "1.0"
 ---
 
 # Norwegian Writing Guidelines
 
-This skill provides comprehensive guidance for writing high-quality Norwegian text based on official Norwegian spelling and grammar rules.
-
-## When to Use This Skill
-
-Use this skill when:
-
-- Writing or editing Norwegian text (bokmål or nynorsk)
-- Reviewing Norwegian content for correctness and clarity
-- Translating content into Norwegian
-- Simplifying formal or bureaucratic Norwegian text
-- Checking grammar, punctuation, or spelling rules
-- Making text more accessible and reader-friendly
+Comprehensive guidance for writing high-quality Norwegian text based on official Norwegian spelling and grammar rules.
 
 ## Core Principles
 
 ### 1. Klarspråk (Plain Language)
 
-Write clearly and accessibly:
-
-- Use everyday words instead of formal/bureaucratic language
+- Prefer everyday words over formal/bureaucratic language
 - Write short, direct sentences
 - Use active voice instead of passive
 - Structure text logically with clear headings
-- Consider your reader's needs and knowledge level
+- Consider the reader's needs and knowledge level
 
 ### 2. Correct Norwegian
 
-Follow the official Norwegian guidelines for:
+Follow official Norwegian guidelines for:
 
 - Spelling and grammar
 - Punctuation (commas, semicolons, etc.)
@@ -152,65 +136,25 @@ Use binding letters where needed:
 
 ## Kansellisten: Words to Avoid
 
-The "Kansellisten" is a list of formal/bureaucratic words that create distance between writer and reader. Replace them with everyday alternatives:
+The "Kansellisten" is a list of formal/bureaucratic words that create distance between writer and reader. Replace them with everyday alternatives. For the full list with examples, consult **`references/praktisk-sprakbruk/kansellisten.md`**.
 
-| Avoid         | Use instead                   |
-| ------------- | ----------------------------- |
-| anbringe      | sette, legge, plassere        |
-| anføre        | oppgi, nevne, påpeke          |
-| angjeldende   | vedkommende, denne            |
-| angående      | om                            |
-| anvendelse    | bruk                          |
-| avgi          | gi (fra seg)                  |
-| begjære       | be om, kreve                  |
-| begjæring     | anmodning, krav               |
-| bekjentgjøre  | kunngjøre, gjøre kjent        |
-| beliggende    | som ligger                    |
-| besørge       | sørge for, ordne med          |
-| bevirke       | føre til, forårsake           |
-| erlegge       | betale                        |
-| erverve       | skaffe seg, kjøpe             |
-| etterleve     | følge, rette seg etter        |
-| forefinnes    | finnes, være                  |
-| foreligge     | finnes, være                  |
-| forestå       | stå for, sørge for            |
-| forevise      | vise (frem)                   |
-| fremgå        | stå, være                     |
-| fremholde     | påpeke, fremheve              |
-| fullbyrde     | fullføre, sette i verk        |
-| godtgjøre     | dokumentere, bevise           |
-| hensette      | sette, plassere               |
-| henstille til | be om, oppfordre til          |
-| hensynta      | ta hensyn til                 |
-| herunder      | blant annet, inklusive        |
-| imøtese       | se frem til                   |
-| inneværende   | dette, denne                  |
-| likeledes     | også                          |
-| meddele       | gi beskjed                    |
-| medføre       | innebære, føre til            |
-| med videre    | og så videre                  |
-| nærværende    | denne, dette                  |
-| omfattes av   | faller inn under, gjelder for |
-| oppebære      | få, motta                     |
-| påberope seg  | vise til                      |
-| påkrevd       | nødvendig                     |
-| påregne       | regne med                     |
-| samtlige      | alle                          |
-| således       | slik, dermed                  |
-| tilflyte      | komme til                     |
-| tilkjenne     | tildele                       |
-| tilstille     | (over)sende                   |
-| underrette    | gi beskjed, informere         |
-| undertegnede  | jeg                           |
-| unnlate       | la være, ikke                 |
-| utgjøre       | være                          |
-| vedrøre       | angå, gjelde                  |
-| vedrørende    | om, som gjelder               |
-| vitterlig     | kjent                         |
-| yte           | gi, bidra med                 |
-| ytterligere   | enda (en/mer/flere)           |
+Common substitutions:
 
-### Example Transformations
+| Avoid | Use instead |
+| --- | --- |
+| angående | om |
+| anvendelse | bruk |
+| begjære | be om, kreve |
+| foreligge | finnes, være |
+| fremgå | stå, være |
+| herunder | blant annet, inklusive |
+| meddele | gi beskjed |
+| samtlige | alle |
+| således | slik, dermed |
+| vedrørende | om, som gjelder |
+| ytterligere | enda (en/mer/flere) |
+
+### Example Transformation
 
 **Before (kansellistil):**
 
