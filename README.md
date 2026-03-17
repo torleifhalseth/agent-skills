@@ -13,7 +13,7 @@ A collection of [Agent Skills](https://agentskills.io) — folders of instructio
 Install a skill using the [skills CLI](https://github.com/vercel-labs/skills):
 
 ```bash
-npx skills add https://github.com/torleifhalseth/skills --skill norwegian-writing
+npx skills add torleifhalseth/skills --skill norwegian-writing
 ```
 
 ## License
