@@ -137,6 +137,12 @@ markdown = markdown.replace(/^\s*Søk\s*$/gm, '');
 // Remove download prompts
 markdown = markdown.replace(/^Her kan du laste ned .+$/gm, '');
 
+// Remove list entries linking directly to executable downloads
+markdown = markdown.replace(
+  /^[ \t]*-[ \t]+\[[^\]\n]+\]\(https?:\/\/[^\s)]+\.exe(?:[?#][^\s)]*)?\)[ \t]*$/gim,
+  ''
+);
+
 // Remove "Om basen" boilerplate (repeated on every Q&A page)
 markdown = markdown.replace(/^#{1,6} \*{0,2}Om basen\*{0,2}[\s\S]*$/m, '');
 
