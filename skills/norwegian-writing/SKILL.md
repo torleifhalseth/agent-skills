@@ -1,7 +1,7 @@
 ---
 name: norwegian-writing
 description: This skill should be used when the user asks to "write Norwegian text", "check Norwegian grammar", "review Norwegian spelling", "translate to Norwegian", "simplify Norwegian text", "check comma rules in Norwegian", "write bokmål", "write nynorsk", "use klarspråk", or needs guidance on Norwegian punctuation, capitalization, compound words, or sensitive language.
-version: "1.0.1"
+version: "1.1.0"
 ---
 
 # Norwegian Writing Guidelines
