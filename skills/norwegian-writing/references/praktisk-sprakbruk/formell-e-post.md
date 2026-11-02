@@ -75,7 +75,6 @@ Det verkar nokså uformelt eller til og med uhøfleg å bruka forkortingane *Vh.
 -   Bruk ei blank linje etter den innleiande helsinga og mellom avsnitt. Før avslutningshelsinga kan det godt vera to blanke linjer.
 -   Unngå å bruka store bokstavar for å framheva noko. Det blir oppfatta som «skriking».
 -   Unngå å bruka tekstmarkering som kursiv og halvfeit. Dei kan ikkje lesast av alle e-postprogram.
--   Send e-posten som rein tekst, så er du sikker på at mottakaren kan opna og lesa han. Difor bør du òg bruka pdf-format dersom du sender bilde og grafiske element.
 -   Les alltid igjennom meldinga før du sender ho.
 -   La det gå fram kven som får kopi av meldinga. Blindkopi bør berre brukast internt på arbeidsplassen eller i tilfelle der me ynskjer å unngå at e-postadresser blir spreidde.
 

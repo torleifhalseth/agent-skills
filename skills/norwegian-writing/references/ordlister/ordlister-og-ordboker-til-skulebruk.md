@@ -42,6 +42,7 @@ Dette er ordlister for nynorsk godkjende til skulebruk etter 1. august 2012. Ord
 ### Digitale ordlister, ordbøker og andre ressursar
 
 | Elektroniske basisressursar for nynorsk | Nynodata 2013 |
+| *Norsk ordbok nynorsk* | Cappelen Damm |
 | *Nynorsk rettskrivingsordbok* | [Ordnett](https://www.ordnett.no/), Gyldendal |
 | *Nynorskordboka* | Språkrådet og Universitetet i Bergen ([ordbøkene.no](https://ordbokene.no/nob/nn)) |
 | UiB – Nynorskordboka | Clarify |

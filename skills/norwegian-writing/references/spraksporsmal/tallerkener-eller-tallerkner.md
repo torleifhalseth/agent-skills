@@ -8,7 +8,7 @@ Hva heter *tallerken* i flertall, *tallerkener* eller *tallerkner*?
 
 ## Svar
 
-**Det heter *tallerkener*–*tallerkenene* uten sammendraging, se *[tallerken](https://ordbokene.no/bm,nn/search?q=tallerken&scope=e&perPage=20)* i *Bokmålsordboka*.**
+**Det heter *tallerkener*–*tallerkenene* uten sammendraging, se *[tallerken](https://ordbokene.no/nno/bm,nn/tallerken)* i *Bokmålsordboka*.**
 
 Hankjønnsord som slutter på *\-en*, får lagt til flertallsendinger på vanlig måte, altså uten sammendraging og sløyfing av den siste e-en. Et annet eksempel: *en ørken**–ørkenene*.
 

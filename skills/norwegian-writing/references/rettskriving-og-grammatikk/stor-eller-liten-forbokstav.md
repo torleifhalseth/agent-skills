@@ -6,160 +6,157 @@
 
 **I starten av ei ytring har vi til vanleg stor forbokstav.
 **Døme:
-Tida går.
+«Tida går.
 Livet er langt.
 Ja, vi elsker dette landet.
-No ser eg atter slike fjell og dalar.
+No ser eg atter slike fjell og dalar.»
 
 Denne regelen gjeld òg for vanlege forkortingar:
-Cand.real. Olsen har bil.
+«Cand.real. Olsen har bil.
 Dr.med. Øy har sykkel.
 Tv-en står på.
-It-konsulenten arbeider.
+It-konsulenten arbeider.»
 
-Visse internasjonalt standardiserte forkortingar skal alltid ha liten forbokstav. Det skal dei også ha når dei står fremst i ein tekst. Nokre døme:
+Visse internasjonalt standardiserte forkortingar skal alltid ha liten forbokstav. Det skal dei også ha når dei står fremst i ein tekst. Døme:
 
-dB = desibel
+«dB = desibel
 kHz = kilohertz
 mA = milliampere
 mV = millivolt
 mSv = millisievert
-pH = hydrogenpotensial, dvs. surgrad
+pH = hydrogenpotensial, dvs. surgrad»
 
-Døme:
-pH-verdien er 7,0.
-dB-grensa ligg på 120.
+«pH-verdien er 7,0.
+dB-grensa ligg på 120.»
 
-Etternamn som byrjar med **von, van, de** o.l. har normalt alltid liten forbokstav:
-van Gogh
+Etternamn som byrjar med **von, van, de** o.l., har som regel liten forbokstav:
+«van Gogh
 de Gaulle
 von der Lippe
-van der Waals-binding
+van der Waals-binding»
 
-Her kan ein skrive stor forbokstav ved setningsstart om ein ynskjer det.
+I setningsstart er det valfritt med stor eller liten forbokstav.
 
 ## Etter kolon
 
 **Etter kolon har vi liten forbokstav i enkeltord og uttrykk.**
 
 Døme:
-Her må du velje: meierismør, margarin eller olivenolje.
+«Her må du velje: meierismør, margarin eller olivenolje.
 Alle gode ting er tre: forrett, hovudrett og dessert.
 Eg har tre bilar: ein blå, ein grå og ein gul.
-Ho øvde på det ho var lite flink til: lange ballar på vingane.
+Ho øvde på det ho var lite flink til: lange ballar på vingane.»
 
-**Etter kolon har vi liten forbokstav i leddsetning (bisetning, undersetning).**
-
-Døme:
-Det hadde likningssjefen aldri tenkt på: at skatten var for høg.
-Det var ein ny tanke: at han kunne svare nei.
-
-**Når vi har ei heilsetning (hovudsetning) etter kolon, bruker vi stor forbokstav.**
+**Leddsetning **(bisetning, undersetning)**** **etter kolon får liten forbokstav.**
 
 Døme:
-Mitt syn er dette: Vi må kome først til mølla.
+«Det hadde likningssjefen aldri tenkt på: at skatten var for høg.
+Det var ein ny tanke: at han kunne svare nei.»
+
+**Heilsetning (hovudsetning) etter kolon får stor forbokstav.**
+
+Døme:
+«Mitt syn er dette: Vi må kome først til mølla.
 Spørsmålet er: Får vi mat?
-Då gjekk det opp for han: I England er det venstrekøyring.
+Då gjekk det opp for han: I England er det venstrekøyring.»
 
 **Sitat**
 Sitat skal vere nøyaktige. Etter kolon kan vi difor få både stor og liten forbokstav.
 
 Døme:
-Vismannen sa det slik: «Stillaste vatnet har djupaste grunnen.»
-I diktet sier Øverland dette om å glede en annen: «det er den eneste glede.»
+«Vismannen sa det slik: «Stillaste vatnet har djupaste grunnen.»
+I diktet sier Øverland dette om å glede en annen: «det er den eneste glede.»»
 
 ## Pronomen
 
 **Personlege pronomen har vanlegvis liten forbokstav.**
 
 Døme:
-Her kommer jeg!
+
+«Her kommer jeg!
 Takk for brevet du sende meg i går.
+Jeg syns han er ganske grei.»
 
-Vi skriv **du** med liten forbokstav inne i ein tekst. Det same gjeld i religiøs samanheng:
-«Fader vår, **du** som er himmelen.»
+Dette gjeld òg i religiøs samanheng:
+««Fader vår, **du** som er himmelen.»
+«Gud, **han** som skapte himmel og jord.»»
 
-Om Gud skriv vi til vanleg **han** med liten h.
+**I høfleg tiltale får personlege pronomen som regel stor forbokstav:**
 
-**I høfleg tiltale har vi i personlege pronomen stor forbokstav i to tilfelle:**
-
-**De, Dykk** (nynorsk)
-**De, Dem** (bokmål)
+«**De, Dykk** (nynorsk)
+**De, Dem** (bokmål)»
 
 Døme:
-«Hvor skal De?» «Det raker Dem ikke!»
-«Kunne De hjelpe oss?» «Sjølvsagt, Dykk hjelper vi gjerne.»
+««Hvor skal De?» «Det raker Dem ikke!»
+«Kunne De hjelpe oss?» «Sjølvsagt, Dykk hjelper vi gjerne.»»
 
-**Høfleg til fleire**
+**Høfleg tiltale til fleire**
 
 Tradisjonelt har vi brukt dei høflege tiltaleformene
-**De** og **Dykk** (nynorsk)
+«**De** og **Dykk** (nynorsk)
 **De** og **Dem** (bokmål)
+»
 i brev til privatpersonar og til firma, institusjonar, organisasjonar, kontor osb. Det er høfleg tiltale til både ein og fleire.
 
 No når **De/Dykk** og **De/Dem** er mindre brukt enn før, kan vi i staden skrive **de/dykk** (nynorsk) og **dere/dere** (bokmål) som tiltale til fleire.
 
 Døme:
-Kunne de sende oss nokre fleire bøker?
-Derfor kan dere sende to representanter til årsmøtet.
+«Kunne de sende oss nokre fleire bøker?
+Derfor kan dere sende to representanter til årsmøtet.»
 
-Det er viktig å understreke at det berre heiter **dere** på bokmål – med liten d.
-
-**Eigedomsord (possesiv, tidlegare kalla eigedomspronomen) har til vanleg liten forbokstav.**
+**Eigedomsord (possesiv, tidlegare kalla eigedomspronomen) har som regel liten forbokstav.**
 
 Døme:
-Alt mitt er ditt.
-Det er våre bøker, ikkje hans.
+«Alt mitt er ditt.
+Det er våre bøker, ikkje hans.»
 
 Unntak i høfleg tiltale:
-**Dykkar** (nynorsk) og **Deres** (bokmål).
+**«D»ykkar** (nynorsk) / **Deres** (bokmål)
 
 Døme:
-Mannen Dykkar er snill. / Mannen Deres er snill.
-Bilen Dykkar står parkert på min plass. / Bilen Deres står parkert på min plass.
+«Mannen Dykkar er snill. / Mannen Deres er snill.
+Bilen Dykkar står parkert på min plass. / Bilen Deres står parkert på min plass.»
 
 ## Om kongehuset
 
-**I generell omtale bruker vi liten forbokstav.**
+**I vanleg omtale bruker vi liten forbokstav.**
 
-kong Harald og dronning Sonja
+«kong Harald og dronning Sonja
 kongen og dronninga / kongen og dronningen
 majesteten
 kronprinsen
 kronprinsessa/kronprinsessen
 prinsen
 prinsessa/prinsessen
-kongehuset
+kongehuset»
 
 **Stor forbokstav i faste tiltaleformer**
 
-Dykkar Majestet / Deres Majestet
+«Dykkar Majestet / Deres Majestet
 Hans Majestet Kongen
 Hennar Majestet Dronninga / Hennes Majestet Dronningen
 Høgvørde Kronprins / Deres Kongelige Høyhet
-Høgvørde Kronprinsesse / Deres Kongelige Høyhet**
+Høgvørde Kronprinsesse / Deres Kongelige Høyhet»**
 Stor forbokstav om Kongen som institusjon
 **
-Til Kongen (i søknader)
+«Til Kongen (i søknader)
 Embetsmenn blir utnemnde av Kongen i statsråd
-Slottet (i Oslo)
+Slottet (i Oslo)»
 
 ## Om stat, stell og styre
 
 **Det meste skal ha liten forbokstav.**
 Døme:
-staten
+«staten
 statsministeren
 stortingspresidenten
 stortingsrepresentanten
-regjeringa/regjeringen (sjå også neste punkt, om grunnleggjande statsorgan)
+regjeringa/regjeringen (sjå også neste punkt, om grunnleggjande statsorgan)»
 
-departementet
+«departementet
 departementa/departementene
-(men Finansdepartementet, Utanriksdepartementet/Utenriksdepartementet osv.)
-
-Andre tilfelle:
-fylkeskommunen
+(men Finansdepartementet, Utanriksdepartementet/Utenriksdepartementet osv.)»
+«fylkeskommunen
 høgsterettsjustitiarius/høyesterettsjustitiarius
 kommunedirektøren
 kommunen
@@ -169,79 +166,84 @@ politiet
 rådhuset
 skifteretten
 statsbudsjettet
-statskassa/statskassen
+statskassa/statskassen»
 
 I desse tilfella må vi skilje mellom institusjonen og personen:
 
 riksadvokaten (= personen)
 Riksadvokaten (= institusjonen, altså Riksadvokatembetet)
 
-barneombodet/barneombudet (= personen)
-Barneombodet/Barneombudet (= institusjonen)
+«barneombodet/barneombudet (= personen)
+Barneombodet/Barneombudet (= institusjonen)»
 
-likestillingsombodet/likestillingsombudet (= personen)
-Likestillingsombodet/Likestillingsombudet (= institusjonen)
+«likestillingsombodet/likestillingsombudet (= personen)
+Likestillingsombodet/Likestillingsombudet (= institusjonen)»
 
-sivilombodet/sivilombudet (= personen)
-Sivilombodet/Sivilombudet (= institusjonen)
+«sivilombodet/sivilombudet (= personen)
+Sivilombodet/Sivilombudet (= institusjonen)»
 
-statsforvaltaren/statsforvalteren (= personen)
-Statsforvaltaren/Statsforvalteren (= kortnamn på den einskilde institusjonen)
+«statsforvaltaren/statsforvalteren (= personen)
+Statsforvaltaren/Statsforvalteren (= kortnamn på den einskilde institusjonen)»
 
-sysselmester/sysselmeister (=personen)
-Sysselmester/Sysselmeister (=institusjonen)
+«sysselmester/sysselmeister (= personen)
+Sysselmester/Sysselmeister (= institusjonen)»
 
 Vårt råd:
 Er det snakk om forvaltningsorganet generelt, og ikkje eit konkret embete, skriv vi *statsforvalteren* med liten s.
 
 **Forsvaret**
-Om institusjonen bruker vi stor forbokstav:
-Ho var tilsett i Forsvaret.
-I slike tilfelle vil Forsvaret ha bruk for ekstramannskap.
+Den norske institusjonen har stor forbokstav:
 
-**Stor** forbokstav i
-Hæren
+«Ho var tilsett i Forsvaret.
+I slike tilfelle vil Forsvaret ha bruk for ekstramannskap.»
+
+**Stor** forbokstav i forsvarsgreiner o.a.:
+«Hæren
 Cyberforsvaret
 Luftforsvaret
 Sjøforsvaret
 Sivilforsvaret
-Heimevernet
+Heimevernet»
 
-I generell omtale bruker vi **liten** forbokstav:
-Vi trenger et forsvar som kan trygge landet.
+I andre samanhengar har ordet *forsvar* **liten** forbokstav:
+«Vi trenger et forsvar som kan trygge landet.
 Alle har ansvar for forsvaret av landet.
-Det belgiske sjøforsvaret er nokså redusert.
+Det belgiske sjøforsvaret er nokså redusert.»
 
-**Stor forbokstav om grunnleggjande statsorgan**
-
-Kongen som institusjon og Kongen i statsråd skal ha stor forbokstav.
-
-Stor forbokstav i
+**Stor forbokstav i namn på grunnleggjande statsorgan**
+«Kongen i statsråd
 Stortinget
 Odelstinget
 Lagtinget
-Høgsterett/Høyesterett
+Høgsterett/Høyesterett»
 
 Men liten forbokstav i samansetningar:
-stortingsrepresentant
+«stortingsrepresentant
 odelstingsproposisjon
-høgsterettsdom/høyesterettsdom
+høgsterettsdom/høyesterettsdom»
 
 Liten forbokstav når ordet ikkje er særnamn (bokmål: egennavn):
-«Hvor mange storting har vi hatt etter krigen?»
-I Danmark heiter høgsterett «Højesteret».
+««Hvor mange storting har vi hatt etter krigen?»
+I Danmark heiter høgsterett «Højesteret».»
 
 Vi kan alltid skrive **regjeringa/regjeringen** med liten forbokstav.
 Dersom vi vel å skrive **Regjeringa/Regjeringen** med stor forbokstav, er det for å få tydeleg fram at vi meiner statsorganet, institusjonen.
 
 Døme:
-I slike tilfelle skal Regjeringa (eller: regjeringa) følgje vedtaket i Stortinget.
-Den regjeringa vi no har, treng avløysing.
 
-**Avdelingar, etatar, komitear, nemnder, seksjonar, utval, prosjekt o.l. skal i regelen ha liten forbokstav.**
+«I slike tilfelle skal Regjeringa (eller: regjeringa) følgje vedtaket i Stortinget.
+Den regjeringa vi no har, treng avløysing.»
+
+**Stor forbokstav i namn på direktorat**:
 
 Døme:
-avdelinga/avdelingen
+«Digitaliseringsdirektoratet
+Politidirektoratet»
+
+**Som regel liten forbokstav i namn på avdelingar, seksjonar, etatar, utval, komitear, nemnder og prosjekt.**
+
+Døme:
+«avdelinga/avdelingen
 barnevernet
 barnevernsnemnda
 byplankontoret
@@ -281,14 +283,18 @@ trygdeetaten
 trygdekontoret
 utvalet/utvalget
 utgreiingsseksjonen/utredningsseksjonen
-økonomiavdelinga/økonomiavdelingen
+økonomiavdelinga/økonomiavdelingen»
+
+Regelen gjeld både kommunale etatar (*teknisk etat*) og etatar som rommar statsorgan (*skatteetaten* med *Skattedirektoratet*).
+
+Nemnder som er sjølvstendige organ, får stor forbokstav (*Rikslønnsnemnda*).
 
 ## Titlar, tilnamn og stillingar
 
 **Liten forbokstav, også ved underskrifter og på visittkort.**
 
 Døme:
-advokat
+«advokat
 barnehageassistent
 baron
 direktør
@@ -309,235 +315,239 @@ president (t.d. president Macron), presidenten
 sir
 sjefingeniør
 skulesjef/skolesjef
-statsminister (f.eks. statsminister
+statsminister (t.d. statsminister Støre)
 underdirektør
 trygdesjef
 utanriksminister/utenriksminister
-økonomioppfølgjar/økonomioppfølger (= controller)
+økonomioppfølgjar/økonomioppfølger (= controller)»
 
 **Liten forbokstav i titlar som står etter namnet:**
-Håkon jarl
+«Håkon jarl
 Jørgen hattemakar / Jørgen hattemaker
 Jon prest
-Aslak smed
+Aslak smed»
 
-**Liten bokstav i lange tilnamn med artikkel eller preposisjonsuttrykk:**
-Karl den store
+**Liten bokstav i tilnamn med artikkel eller preposisjonsuttrykk:**
+«Karl den store
 Olav den heilage / Olav den hellige
-den heilage Birgitta / den hellige Birgitta
+den heilage Birgitta / den hellige Birgitta»
 
 **Stor forbokstav i faste tilnamn utan artikkel:**
-Halvdan Svarte
+«Halvdan Svarte
 Harald Hardråde
 Tore Hund
 Olav Digre
 Jon Blund
 Ola Dunk
-Pippi Langstrømpe
+Pippi Langstrømpe»
 
-**Litt spesielt:**
-kong vinter
+**Spesielle tilfelle:**
+«kong vinter
 kong alkohol
-skogens konge
+skogens konge»
 
-engelen Gabriel
-jomfru Maria
+«engelen Gabriel
+jomfru Maria»
 
 ## Namn
 
-**Institusjonar, organisasjonar o.l. (hovudregel): Det første leddet i namnet skal ha stor forbokstav. Resten har i regelen berre små bokstavar.**
+**Hovudregel for institusjonar, organisasjonar og liknande: stor forbokstav i første ord, som regel liten forbokstav i resten av orda**.
 
 Døme:
-Rådet for vedlikehold av håndslokkere
+«Rådet for vedlikehold av håndslokkere
 Foreningen for hjertesyke barn
-Arbeids- og inkluderingsdepartementet
+Arbeids- og inkluderingsdepartementet»
 
-**Departementa** har ei lang namneform og ei kortform.
-Døme:
-Det kongelege miljøverndepartement / Det kongelige miljøverndepartement
-Kortform: Miljøverndepartementet
+**Departementa** har ei lang namneform og ei kortform, begge med stor forbokstav:
+«Det kongelege miljøverndepartement / Det kongelige miljøverndepartement
+Kortform: Miljøverndepartementet»
 
-Vi skriv **staten** med liten forbokstav, men i namn blir det stor s i slike tilfelle som desse:
-Statens eldreråd
-Statens dyrehelsetilsyn
-Statens bygningstekniske etat
-Statens innkrevjingssentral / Statens innkrevingssentral
-Statens utdanningskontor i Buskerud
+Vi skriv **staten** med liten forbokstav, men som første ord i namn på statsorgan får **staten** stor s:
+«Statens arbeidsmiljøinstituttt
+Statens pensjonskasse
+Statens havarikommisjon»
 
-Vi skriv **kommunen** og **fylkeskommunen** med liten forbokstav.
-Nokre døme på namn:
-Hurdal kommune
+Vi skriv **kommunen** og **fylkeskommunen** med liten forbokstav:
+«Hurdal kommune
 Rogaland fylkeskommune
-Trøndelag fylke
+Trøndelag fylke»
 
-Vi skriv **politiet, likningskontoret, folkeregisteret** og **trygdekontoret** med liten forbokstav.
-Nokre døme på namn:
-Trøndelag politidistrikt
+Like eins liten forbokstav i avdelings- og kontornamn o.a. som står etter eit stadnamn:
+Døme (historiske):
+«Trøndelag politidistrikt
 Klepp likningskontor
-Nes trygdekontor
+Nes trygdekontor»
 
-Andre typar namn i staten og kommunane:
-Språkrådet
+Andre slags namn i staten og kommunane:
+«Språkrådet
 Statistisk sentralbyrå
 Rådet for fagopplæring i arbeidslivet
 Foreldreutvalet for grunnskolen / Foreldreutvalget for grunnskolen
 Bjertnes videregående skole
 Vasshus skule
-Hærens ingeniørhøgskole
+Hærens ingeniørhøgskole»
 
 Nokre namn har etter gammal tradisjon stor forbokstav også i sisteleddet:
-Noregs Bank / Norges Bank
-Noregs Statsbaner / Norges Statsbaner
+«Noregs Bank / Norges Bank
+Noregs Statsbaner / Norges Statsbaner»
 
 **Geografiske namn: Det første leddet i namnet skal ha stor forbokstav. Resten har i regelen berre små bokstavar.**
 
-Det fjerne austen / Det fjerne østen
+«Det fjerne austen / Det fjerne østen
 Den dominikanske republikken / Den dominikanske republikk
 Dei sameinte arabiske emirata / De forente arabiske emirater
-Dei nederlandske Antillane / De nederlandske Antiller
 Den europeiske unionen / Den europeiske union
 Det heilage landet / Det hellige land
-Mexico by
+Mexico by»
 
-Det heiter
-Bygde-Noreg / Bygde-Norge
-Vinter-Noreg / Vinter-Norge
-med stor forbokstav i førsteleddet.
+Stor forbokstav i samansetningar med Noreg/Norge som sisteledd:
+«Bygde-Noreg / Bygde-Norge
+Vinter-Noreg / Vinter-Norge»
+Som regel liten forbokstav i samansetningar med stadnamn som sisteledd:
 
-Sørpolen, men ein sørpolsekspedisjon
-Middelhavet, men eit middelhavsland
+«Sørpolen, men ein sørpolsekspedisjon
+Middelhavet, men eit middelhavsland»
 
-**Ord med geografiske namn eller personnamn i**
-
-Stor forbokstav og bindestrek:
-Oslo-folk
+**Ord med geografiske namn eller personnamn som førsteledd kan få stor forbokstav og bindestrek:**
+«Oslo-folk
 Drammens-mann
-Bergens-dialekt
+Bergens-dialekt»
 
-Men vi skriv helst slik:
-oslofolk
+Men er samansetninga vanleg, kan vi godt sløyfe bindestreken og skrive ordet i eitt med liten forbokstav:
+«oslofolk
 drammensmann
-bergensdialekt
+bergensdialekt»
 
-Samansetningar som sjølv er samnamn (bokmål: fellesnavn), kan altså skrivast på to måtar:
+Mange innarbeidde samansetningar kan brerre skrivast på den måten:
 
--   med stor forbokstav og bindestrek
--   med liten forbokstav og ingen bindestrek
-
-I innarbeidde samansetningar som vi normalt oppfattar som vanlege ord (samnamn/fellesnavn), bruker vi liten bokstav og ingen bindestrek.
-
-Døme:
-altaskifer
+«altaskifer
 chilesalpeter
 gudbrandsdalsost
 kvæfjordkake
 noregsmeisterskap/norgesmesterskap
 ringerikserter
 selbuvott
-ugelstadkuler
+ugelstadkuler»
 
-Stor forbokstav og bindestrek er det vanlege i nokså tilfeldige samansetningar:
-Alta-direktør
+Dei fleste slike samansetningar står i ordbøkene.
+
+Stor forbokstav og bindestrek er derimot det vanlege i tilfeldige samansetningar:
+«Alta-direktør
 Brønnøysund-skribent
 Bush-tale
-Hagen-utvalget
+Hagen-utvalget / Hagen-utvalet
 Stoltenberg-ros
-Vinstra-uhell
+Vinstra-uhell»
 
 **Personar**
 (sjå òg under punkt 6: Titlar, tilnamn og stillingar)
 
-Heilag-Olav / Hellig-Olav
+«Heilag-Olav / Hellig-Olav
 Vesle-Kari
-Dale-Gudbrand
+Dale-Gudbrand»
 
-Visse namn får særbehandling:
-van Gogh
+Nokre få namnetypar har liten forbokstav:
+«van Gogh
 de Gaulle
-von der Lippe
+von der Lippe»
 
-Fremst i ein tekst har det vore vanleg å la slike namn stå med liten forbokstav. Men ein kan skrive stor forbokstav om ein ynskjer det.
+Først i ei setning er det valfritt med stor eller liten forbokstav i slike namn.
 
-**Jord og himmel**
+**Jord og himmel med meir**
 
 Liten forbokstav i
-sola
+«jorda
 månen
-jorda
+sola
+universet
+himmelen
+helvetet»
+Stor forbokstav i unike namn på planetar og stjerner:
+«Mars
+Jupiter
+Venus
+Sirius»
 
-Høgare oppe:
-Mjølkevegen/Melkeveien
-Store bjørn
+Galaksar, stjernebilete og stjerneteikn med stor forbokstav:
 
-Stjerneteikn med liten:
-han er jomfru
-ho er steinbukk
+«Mjølkevegen/Melkeveien»
+«Store bjørn»
 
-**Religiøse namn med stor forbokstav**
-Døme: Vårherre, Gud, Den heilage ande / Den hellige ånd, Menneskesonen/Menneskesønnen, Sankt Peter, Fanden, Satan, Allah, Buddha
+«Hun er født i Væren / Ho er fødd i Vêren
+Han er født/fødd i Steinbukken»
 
-Bibelen, Koranen
+Likevel (som teljeleg omgrep):
 
-Men:
-kjøpe seg ny bibel; lese i bibelen sin
+«hun/ho er jomfru
+han er steinbukk»
+
+**Religiøse namn som regel med stor forbokstav**
+«Allah
+Buddha»
+«Gud, Den heilage ande / Den hellige ånd
+Vårherre
+Menneskesonen/Menneskesønnen
+Sankt Peter»
+«
+Fanden, Satan»
+«Bibelen, Koranen»
+
+Men (som teljeleg omgrep):
+«kjøpe seg ny bibel; lese i bibelen sin
 kjærlighetens gud
 finne seg ein ny gud
-den norrøne guden Odin
+den norrøne guden Odin»
 
-for guds skuld / for guds skyld
-eit guds under
-
-himmelen
-helvetet
-universet
+I faste uttrykk:
+«for guds skuld / for guds skyld
+eit guds under»
 
 **Krigar, historiske hendingar og epokar**
 
-Når førsteleddet er eit særnamn (bokmål: egennavn), skal det vere stor forbokstav, i andre tilfelle liten.
-
-Døme: med stor:
-Vietnamkrigen
-Golfkrigen
-Kielfreden
-
-Døme: med liten:
-trettiårskrigen
+Hovudregelen er liten forbokstav:
+«trettiårskrigen
 mellomalderen/middelalderen
 jura
 krittida
 krystallnatta/krystallnatten
 svartedauden
-sjuårskrigen (eller syvårskrigen i bokmål)
+sjuårskrigen (òg syvårskrigen på bokmål)»
 
-**Ost, frukt, husdyr o.l. har liten forbokstav.**
-Døme:
-gauda(ost)
+Når første ledd er eit særnamn, får vi stor forbokstav:
+
+«Vietnamkrigen
+Golfkrigen
+Kielfreden»
+
+**Namn på matsortar og husdyrrasar har liten forbokstav**:
+«gauda(ost)
 napoleonskake
 mormonsen(kake)
 åkerøeple
 kerrs pink
 herefordfe
-norsk raudt fe (NRF)
+norsk raudt fe (NRF)»
 
-**Plantenamn og bakteriar**
-Våre vanlege bruksnamn skal ha liten forbokstav:
-blåveis
+**Norske namn på plantar har liten forbokstav:**
+«blåveis
 kvitsymre
-løvetann
+løvetann»
 
-kolibakteriar/kolibakterier
+**Namn på bakteriar og virus har liten forbokstav**
+«kolibakteriar/kolibakterier
 stafylokokkar/stafylokokker
+koronavirus»
 
-I den latinske namneforma skal det første leddet ha stor forbokstav:
-*Anemone hepatica
-Escherichia coli*
+I vitskaplege namn på plantar, dyr, bakteriar o.a. skal det første ordet ha stor forbokstav:
+«*Anemone hepatica
+Canis lupus
+Escherichia coli*»
 
 ## Fag og emne
 
-**Alle fag skal skrivast med liten forbokstav.**
+**Namn på fag har som regel liten forbokstav.**
 
-Døme:
-bedriftsleiing/bedriftsledelse
+«bedriftsleiing/bedriftsledelse
 butikkslaktarfaget/butikkslakterfaget
 fiske og fangst
 industriell næringsmiddelproduksjon
@@ -551,58 +561,59 @@ plate- og sveisefag
 prosjektleiing/prosjektledelse
 reindrift
 religion og etikk
-tysk
+tysk»
 
 ## Lover
 
 **Namn på lover, forskrifter og avtalar har som regel liten forbokstav. Grunnlova/Grunnloven har stor.**
 
 Døme:
-lov om jordskifte.
+«lov om jordskifte
 lov om omsetning av alkoholholdig drikk m.v.
-forskrift om forvaltning av hjortevilt
+forskrift om forvaltning av hjortevilt»
 
-Regelen om liten forbokstav gjeld også kortformer:
-arbeidsmiljølova/arbeidsmiljøloven
+Regelen gjeld også kortformer:
+«arbeidsmiljølova/arbeidsmiljøloven
 jordskiftelova/jordskifteloven
 ureiningslova/forurensningsloven
 covid-19-forskrifta/covid-19-forskriften
-barnekonvensjonen
+barnekonvensjonen»
 
-Det er likevel stor forbokstav i kortnamn der forleddet er eit særnamn:
-Svalbardlova/Svalbardlova
+Stor forbokstav berre der forleddet er eit særnamn:
+«Svalbardlova/Svalbardloven
 Bernkonvensjonen
 Gulatingslova/Gulatingsloven
 Jantelova/Janteloven
-Moselova/Moseloven
+Moselova/Moseloven»
 
 ## Himmelretningar
 
-**Alle har liten forbokstav.**
+**Orda for himmelretningane har liten forbokstav:**
 
-Døme:
-bensinprisen i nord
+«bensinprisen i nord
 industrien i sør
 faren i aust / faren i øst
 vegen mot vest / veien mot vest
 landa i sør / landene i sør
 den kalde krigen mellom aust og vest
 sør står mot nord i klimaspørsmål
-vestkysten
-austkysten/østkysten
+»
 
-Stor forbokstav i Norden, Vesten, Syden, Austen/Østen:
-Han var i Syden på ferie.
+Det same gjeld ikkje-spesifikke samansetningar med desse orda, som
+«vestkysten
+austkysten/østkysten»
+Det skal vere stor forbokstav i
+«Norden, Vesten, Syden, Austen/Østen»
+I samansette namn får berre første ordet stor forbokstav:
 
-Men: Det fjerne austen / Det fjerne østen
-Det ville vesten
+«Det fjerne austen / Det fjerne østen
+Det ville vesten»
 
 ## Dagar, månader og høgtider
 
-**Alle har liten forbokstav.**
+**Namn på dagar, månader og høgtider har liten forbokstav:**
 
-Døme:
-jul
+«jul
 nyttår
 påske
 1\. juledag
@@ -619,48 +630,61 @@ sankthansbål
 helgemess/allehelgensdag
 id
 ramadan
-hanukka
+hanukka»
 
 ## Bokstavord
 
-Ein kan velje mellom
-A-lag og a-lag
+Med små forbokstavar:
+«i-land
+u-land
+a-bombe
+e-post»
+
+«vg1, vg2, vg3»
+Valfritt:
+
+«A-lag og a-lag
 H-bombe (kjemisk symbol) og h-bombe (hydrogen-)
-X-kromosom og x-kromosom
+X-kromosom og x-kromosom»
 
-edb eller EDB
-tv eller TV
-Nato eller NATO
-Efta eller EFTA
+Men berre med stor forbokstav:
 
-Men berre
-C-vitamin
+«C-vitamin
 V-dal
 U-dal
 H-bjelke
+T-skjorte»
 
-i-land
-u-land
-a-bombe
+Valfritt:
+
+«edb eller EDB
+tv eller TV
+Nato eller NATO
+Efta eller EFTA»
+
+Særnamn med berre konsonantar må skrivast med store bokstavar:
+«FN
+NRK»
 
 **Toneartar**
 
-A-dur
-Ess-dur
+«A-dur
+Ess-dur»
 
-a-moll
-ess-moll
+«a-moll
+ess-moll»
 
-Griegs a-mollkonsert
+«Griegs a-mollkonsert»
 
-**Andre aktuelle**
+**Fysiske og kjemiske forkortingar og symbol har særeigne skrivemåtar:**
 
-vg1
-vg2
-vg3
+«kV (kilovolt)
+MW (megawatt)»
 
-pH-måling
-pH-verdi
+«pH-måling
+pH-verdi»
+
+Her kan ein ikkje setje opp faste reglar. Ordboka har oftast fasiten.
 
 
 ---

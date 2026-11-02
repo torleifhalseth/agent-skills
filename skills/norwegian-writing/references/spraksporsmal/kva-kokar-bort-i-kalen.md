@@ -18,7 +18,7 @@ Den fyrste norske ordboka som ordlaget står i, er Steinar Schjøtts dansk-norsk
 
 ![](/wp-content/uploads/kva-kokar-bort-i-kalen-2.png)
 
-På den tida tydde *kål* ofte ‘kålsuppe’ eller ‘suppe av kjøt eller flesk, vatn, byggryn, potet, kål (og erter)’. Det er berre det som gjev meining i eit eldre uttrykk som *å* *supa kald kål*. I slik kål kunne kva som helst i prinsippet koka bort, men det er truleg kjøt som er meininga, jf. munnhellet «de koker bort i kåla og kjem att til våra». Alt i dette avsnittet finn du [her](http://no2014.uio.no/perl/ordbok/no2014.cgi?soek=k%C3%A5l#ariadne=[[|163641|,0,|k%C3%A5l|]]), i *Norsk Ordbok*, ikkje langt frå uttrykket *gjera kål på*.
+På den tida tydde *kål* ofte ‘kålsuppe’ eller ‘suppe av kjøt eller flesk, vatn, byggryn, potet, kål (og erter)’. Det er berre det som gjev meining i eit eldre uttrykk som *å* *supa kald kål*. I slik kål kunne kva som helst i prinsippet koka bort, men det er truleg kjøt som er meininga, jf. munnhellet «de koker bort i kåla og kjem att til våra». Alt i dette avsnittet finn du *[Norsk Ordbok](https://norsk-ordbok.no/nob/no/k%C3%A5l)*.
 
 
 ---

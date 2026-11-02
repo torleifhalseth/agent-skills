@@ -20,7 +20,7 @@ I mange dialektar har n-en òg falle bort (slik at det heiter /mea/ og /sia/), m
 
 [*Medan*](https://ordbokene.no/nn/48824) har synonyma *mens* (som i bokmål) og dessutan kortvarianten *[med](https://ordbokene.no/nn/48824)* /me/, som var meir utbreidd enn *medan* på Ivar Aasen si tid.
 
-Hugs at det heiter *ved sida av*, uttalt *ve sia a(v)* utan n til slutt! Dette uttrykket har ingenting med adverbet *[sidan](https://ordbokene.no/bm,nn/search?q=sidan&scope=ei)* å gjera. *Sida* /sia/ er her bunden form av *ei side* /ei sie/*.*
+Hugs at det heiter *ved sida av*, uttalt *ve sia a(v)* utan n til slutt! Dette uttrykket har ingenting med adverbet *[sidan](https://ordbokene.no/nn/65396)* å gjera. *Sida* /sia/ er her bunden form av *ei side* /ei sie/*.*
 
 
 ---

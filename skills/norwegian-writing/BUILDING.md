@@ -5,28 +5,28 @@ This document explains how the `norwegian-writing` skill is built: where the con
 ## Architecture Overview
 
 ```
-scripts/scrape.sh          ← Orchestrates the full pipeline
-    ↓ curl
+scripts/scrape-chrome.mjs   ← Fetches sitemaps and pages through Chrome DevTools MCP
+    ↓ Chrome session
 sprakradet.no HTML pages   ← Source: Norwegian government language authority
-    ↓ pipe
+    ↓
 scripts/convert.mjs        ← HTML → clean markdown (turndown)
     ↓ write
 references/**/*.md         ← Output: organized by section
     ↓
-scripts/generate-skill.sh  ← Generates INDEX.md with token counts
+scripts/generate-skill.sh  ← Generates INDEX.md and the linked SKILL.md body
 ```
 
 The pipeline produces two layers of content:
 
-1. **SKILL.md** — A hand-written quick-reference (~300 lines) that agents always load. Contains the most important rules inline so they're available without extra file reads.
-2. **references/** — Detailed reference files (~80k tokens across ~35 files) scraped from sprakradet.no. Agents load these on demand when they need deeper information.
+1. **SKILL.md** — A short workflow and topic guide. Its metadata and introduction are maintained manually; the section between generated markers is produced from curated links and the current Q&A count.
+2. **references/** — Detailed reference files scraped from sprakradet.no. Agents load individual files on demand instead of loading the entire collection.
 
 ## Prerequisites
 
 - **Node.js** (any recent version)
-- **curl** (for fetching pages)
+- **Chrome** with remote debugging enabled
 
-Dependencies are installed automatically by `scrape.sh`, or manually:
+Install the converter dependency before updating:
 
 ```bash
 cd skills/norwegian-writing
@@ -35,23 +35,32 @@ npm install
 
 This installs [turndown](https://github.com/mixmark-io/turndown) — the only dependency — for HTML-to-markdown conversion.
 
-## Running a Full Scrape
+## Updating References
+
+Open `https://sprakradet.no/page-sitemap.xml` in Chrome and enable remote debugging at `chrome://inspect/#remote-debugging`. Then, from the skill directory, run:
 
 ```bash
 cd skills/norwegian-writing
-bash scripts/scrape.sh
+npm install
+node scripts/scrape-chrome.mjs
 ```
 
-This will:
+Approve Chrome's connection prompt and keep the sitemap tab and browser open until the scrape completes. Review the output and `git diff` afterward. The approval grants broad access to that browser profile, including other tabs and cookies; use it only in a trusted environment and turn off remote debugging when finished.
 
-1. Delete and recreate `references/`
-2. Fetch all pages from sprakradet.no (3 main sections + extras)
+The scraper will:
+
+1. Fetch the sitemaps and build a fresh copy alongside `references/`
+2. Fetch pages from sprakradet.no (4 main sections plus Q&A) in small batches
 3. Convert each page to clean markdown via `convert.mjs`
-4. Run quality validation (warns about long lines, small files, artifacts)
+4. Warn about short pages and stop if a fetch or conversion fails
 5. Generate `references/INDEX.md` with token estimates
-6. Print a summary
+6. Replace the old `references/` only if all required pages succeeded, then regenerate the linked section of `SKILL.md`
 
-Typical output: ~1,180 files, ~5.6MB, ~700k estimated tokens (~180k reference + ~520k Q&A).
+It uses one long-lived Chrome DevTools MCP connection and fetches two pages at a time with a short pause. It does **not** use a model to rewrite pages. The scraper reads only the Språkrådet sitemap tab and fetches only Språkrådet URLs. If any request fails, the existing references remain in place.
+
+Run `bash scripts/test-scrape-chrome.sh` for an offline check of the browser pipeline. The approval dialog can reappear when a new Chrome MCP process connects; one scraper run keeps its connection open rather than reconnecting for each page.
+
+Typical output: ~1,195 reference files plus the index, including ~1,130 Q&A articles.
 
 ## How Each Script Works
 
@@ -86,11 +95,10 @@ Takes full HTML on stdin, outputs clean markdown on stdout. This is the core of 
 **Testing the converter in isolation:**
 
 ```bash
-curl -s "https://sprakradet.no/godt-og-korrekt-sprak/rettskriving-og-grammatikk/kommaregler/" \
-  | node scripts/convert.mjs
+node scripts/convert.mjs < saved-page.html
 ```
 
-### `scripts/scrape.sh` — The Scrape Orchestrator
+### `scripts/scrape-chrome.mjs` — The Browser Scraper
 
 **Section discovery:** The scraper fetches the [page sitemap](https://sprakradet.no/page-sitemap.xml) and filters URLs by section prefix. This is more reliable than scraping links from landing pages — it catches nested subpages (like `tegn/apostrof/`) and new pages automatically.
 
@@ -121,32 +129,32 @@ Nested pages (e.g., `tegn/apostrof/`, `nynorskhjelp/s-genitiv/`) are preserved a
 Kilde: https://sprakradet.no/...
 ```
 
-**Validation checks:**
-- Lines longer than 500 chars (suggests broken table/list conversion)
-- "Til toppen" artifacts (navigation remnants)
-- Files with fewer than 10 content lines (possibly empty pages)
+**Validation checks:** Failed requests and conversions abort without replacing existing references. The scraper warns about short pages and refuses to publish if the number of discovered pages drops sharply compared with the existing references.
 
-### `scripts/generate-skill.sh` — Index Generator
+### `scripts/generate-skill.sh` — Index and Skill Generator
 
 Generates `references/INDEX.md` listing every reference file with:
 - Relative link to the file
 - Title (from first `# heading`)
 - Estimated token count (~4 chars/token for Norwegian)
 
-Also has a `--index-only` mode (used by `scrape.sh`) and a full mode that prints per-file quality metrics.
+It also regenerates the marked section of `SKILL.md` with a concise workflow, verified reference links, and the current Q&A count. It does not summarize language rules automatically. `--index-only` is used while the Chrome scraper builds in a staging directory; `--skill-only` updates the skill after publishing. The default mode generates both and prints per-file quality metrics.
 
 ```bash
-bash scripts/generate-skill.sh          # Full summary with metrics
+bash scripts/generate-skill.sh               # Regenerate both and print metrics
 bash scripts/generate-skill.sh --index-only  # Just regenerate INDEX.md
+bash scripts/generate-skill.sh --skill-only  # Just regenerate the SKILL.md body
 ```
+
+Run `bash scripts/test-generate-skill.sh` to verify that generation is repeatable, preserves the manually maintained header, and refuses broken reference links or missing section markers.
 
 ## Content Design Decisions
 
 ### Why two layers (SKILL.md + references)?
 
-SKILL.md is always loaded by the agent — it needs to be compact enough to fit in context alongside other instructions. The ~300-line quick reference covers the rules an agent needs most often (comma rules, capitalization, common word confusions, Kansellisten highlights).
+SKILL.md is loaded when the skill is active, so it should stay compact. It tells agents how to find and use the detailed guidance instead of repeating rules that may change on the source site.
 
-The `references/` directory has the full, detailed content (~80k tokens). Agents read individual files on demand when they need specifics — e.g., reading `preposisjonsbruk.md` (14k tokens) only when helping with preposition usage.
+The `references/` directory contains the full, detailed content. Agents read individual files on demand when they need specifics — e.g., reading `preposisjonsbruk.md` only when helping with preposition usage.
 
 ### Why not scrape more sections?
 
@@ -169,36 +177,26 @@ Bold entries are the headwords; non-bold rows are usage examples.
 
 ### Adding a new section to scrape
 
-In `scrape.sh`, add a line to the `SECTIONS` variable:
+In `scrape-chrome.mjs`, add an entry to the `sections` array:
 
-```bash
-SECTIONS="
-rettskriving-og-grammatikk|godt-og-korrekt-sprak/rettskriving-og-grammatikk/
-praktisk-sprakbruk|godt-og-korrekt-sprak/praktisk-sprakbruk/
-klarsprak-om-skriving|klarsprak/om-skriving/
-ordlister|godt-og-korrekt-sprak/ordlister-og-ordboker/
-new-section|path/on/sprakradet.no/
-"
+```js
+const sections = [
+  ['rettskriving-og-grammatikk', '/godt-og-korrekt-sprak/rettskriving-og-grammatikk/'],
+  ['praktisk-sprakbruk', '/godt-og-korrekt-sprak/praktisk-sprakbruk/'],
+  ['klarsprak-om-skriving', '/klarsprak/om-skriving/'],
+  ['ordlister', '/godt-og-korrekt-sprak/ordlister-og-ordboker/'],
+  ['new-section', '/path/on/sprakradet.no/'],
+];
 ```
 
 The left side is the local directory name, the right side is the URL path prefix to match in the sitemap. All sitemap URLs under that prefix will be scraped automatically, including nested subpages.
 
-### Adding individual pages
-
-For one-off pages outside any section, add a direct `scrape_page` call after the main section loop in `scrape.sh`:
-
-```bash
-scrape_page \
-    "https://sprakradet.no/path/to/page/" \
-    "$OUTPUT_DIR/section-name/page-name.md"
-```
-
 ### Adding pages to the skip list
 
-Add the page slug to the `SKIP_SLUGS` variable in `scrape.sh`:
+Add the page slug to the `skipped` set in `scrape-chrome.mjs`:
 
-```bash
-SKIP_SLUGS="svadagenerator har-du-eit-spraksporsmal cielga-giella new-page-to-skip"
+```js
+const skipped = new Set(['svadagenerator', 'har-du-eit-spraksporsmal', 'cielga-giella', 'new-page-to-skip']);
 ```
 
 ### Handling new HTML patterns
@@ -222,16 +220,13 @@ mainHtml = mainHtml.replace(/<unwanted-element[\s\S]*?<\/unwanted-element>/gi, '
 
 ### Updating SKILL.md
 
-SKILL.md is **hand-written**, not generated. When reference content changes significantly, review and update the quick-reference sections manually. Key sections to keep in sync:
-
-- Kansellisten table (curated subset of the full list)
-- Comma rules summary
-- Capitalization rules
-- Any rules that changed in new Språkrådet guidance
+Edit the frontmatter and introduction in `SKILL.md` manually. Do not edit between the generated-section markers; update the topic links and workflow in `scripts/generate-skill.sh`, then run `bash scripts/generate-skill.sh --skill-only`. The generator checks that linked reference files exist and leaves `SKILL.md` unchanged if a link or marker is missing. Detailed linguistic advice belongs in the source references, not in the generated topic guide.
 
 ## Troubleshooting
 
-**"No `<main>` element found"** — The page structure changed. Check the HTML with `curl -s URL | grep -i '<main'` and update the regex in `convert.mjs`.
+**HTTP 403 on a sitemap or page** — Check that the sitemap is accessible in the connected Chrome profile. The scraper stops without replacing existing references. If the browser is also denied access, use an authorized network or ask the site administrator about access.
+
+**"No `<main>` element found"** — The page structure changed. Inspect the page in Chrome and update the regex in `convert.mjs`.
 
 **Tables rendering as flat text** — The `<table>` rule in `convert.mjs` may not be matching. Check if the table uses non-standard markup (e.g., `<div>` grids instead of `<table>`).
 

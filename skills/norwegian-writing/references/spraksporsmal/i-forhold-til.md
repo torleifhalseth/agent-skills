@@ -10,9 +10,9 @@ Dette uttrykket har blitt mye kritisert fordi det er så omtrentlig, og fordi de
 
 **Det stemmer nesten. Vi har disse rådene:**
 
--   **Vurder *sammenliknet med* og særlig *enn* før du tyr til *i forhold til*.**
+-   **Vurder *sammenliknet med* og særlig *enn* før du tyr til *i forhold til*. Men pass på logikken!**
 -   **Bruk ikke *i forhold til* når en enkel preposisjon kan gjøre nytten (*til*, *for*, *om,* *med* osv).**
--   **Bruk ikke *i forhold til* som tekstbinder, men velg heller tradisjonelle uttrykk som «når det gjelder», «med tanke på» og liknende.**
+-   **Bruk ikke *i forhold til* til tekstbinding, men velg heller tradisjonelle uttrykk som *når det gjelder*, *med tanke på* og liknende.**
 -   **Ikke vær redd for å bruke *i forhold til* der det faktisk er best, eller der det ikke finnes noe skikkelig alternativ.
     **
 
@@ -44,7 +44,7 @@ Ytringer om **endring** kan ofte skrives om slik:
 
 3) I mange helt **åpne spørsmål**: *Hvor stor er a i forhold til b?* (*Er a større enn b?* er mindre åpent.)
 
-4) I enkelte **statistiske** sammenhenger. I statistikk bør språket være så enkelt som mulig, men ikke enklere. Det er lett å forstå at et land har *0,5 eller 7,5 sauer per innbygger*. Men hvis landet f.eks. har *flere trafikkdrepte per innbygger enn noe annet land*, skurrer det litt. Da bør det hete: *i forhold til innbyggertallet* eller skrives helt om.
+4) I enkelte **statistiske** sammenhenger. I statistikk bør språket være så enkelt som mulig, men ikke enklere. Det er lett å forstå at et land har så og så mange *sauer per innbygger.* Det er en god måte å framstille forhold på. Men i dette autentiske eksempelet har det gått over stag: «Irland har flere rødhårete mennesker per innbygger enn noe annet land» (autentisk eksempel). Her ville det vært helt riktig å skrive *i forhold til innbyggertallet*.
 
 ## Preposisjon
 
@@ -72,7 +72,7 @@ De oppblåste autentiske forholdseksemplene nedenfor bør punkteres med mer pres
 
 ## Tekstbinding
 
-*I forhold* har spredt seg kraftig både på bekostning av enkle preposisjoner og på bekostning av sammensatte uttrykk som gjerne brukes til tekstbinding. Det gjelder blant annet
+*I forhold* *til* har (blant annet etter mønster av engelsk *in relation to*) spredt seg kraftig både på bekostning av enkle preposisjoner og på bekostning av sammensatte uttrykk som gjerne brukes til tekstbinding. Det gjelder blant annet
 
 *når det gjelder*, *som gjelder*, *med tanke på*, *med hensyn/omsyn* *til*
 

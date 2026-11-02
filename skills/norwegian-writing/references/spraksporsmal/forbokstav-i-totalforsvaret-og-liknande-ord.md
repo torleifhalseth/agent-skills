@@ -14,7 +14,7 @@ Bør ein bruke stor eller liten forbokstav i slike nemningar:
 
 **Ein bør bruke liten forbokstav i** ***totalforsvaret*, *det militære forsvaret* og *den sivile beredskapen* (som bør ha bestemt form på nynorsk).**
 
-Dette er er ikkje særnamn (eigennamn), i motsetnad til for eksempel *Forsvaret*, *Hæren*, *Marinen* og *Luftforsvaret*, som har fått særnamnsstatus.
+Dette er ikkje klårt avgrensa særnamn (eigennamn), i motsetnad til for eksempel *Forsvaret*, *Hæren*, *Marinen* og *Luftforsvaret*, som har fått særnamnsstatus og tilhøyrande stor forbokstav.
 
 
 ---

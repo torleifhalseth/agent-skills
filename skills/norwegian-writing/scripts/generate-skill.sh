@@ -1,19 +1,20 @@
 #!/bin/bash
 # Norwegian Writing Skill - Generate/Update Script
-# Regenerates references/INDEX.md and validates content quality.
+# Regenerates references/INDEX.md and the generated section of SKILL.md.
 #
-# Usage: scripts/generate-skill.sh [--index-only]
+# Usage: scripts/generate-skill.sh [--index-only|--skill-only]
 #
 # Options:
-#   --index-only   Only regenerate INDEX.md (used by scrape.sh)
+#   --index-only   Only regenerate INDEX.md (used during the Chrome scrape)
+#   --skill-only   Only regenerate the marked section of SKILL.md
 
 set -e
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 SKILL_DIR="$(cd "$SCRIPT_DIR/.." && pwd)"
-CONTENT_DIR="$SKILL_DIR/references"
+CONTENT_DIR="${REFERENCE_DIR:-$SKILL_DIR/references}"
 INDEX_FILE="$CONTENT_DIR/INDEX.md"
-SKILL_FILE="$SKILL_DIR/SKILL.md"
+SKILL_FILE="${SKILL_FILE:-$SKILL_DIR/SKILL.md}"
 
 # Colors
 GREEN='\033[0;32m'
@@ -26,7 +27,7 @@ warn() { echo -e "${YELLOW}[WARN]${NC} $1"; }
 
 # Check content exists
 if [ ! -d "$CONTENT_DIR" ]; then
-    echo "ERROR: Reference directory not found. Run scripts/scrape.sh first."
+    echo "ERROR: Reference directory not found. See BUILDING.md for update instructions."
     exit 1
 fi
 
@@ -108,19 +109,123 @@ EOF
     cat >> "$INDEX_FILE" << 'EOF'
 ## Updating
 
-Run `scripts/scrape.sh` from the skill root to fetch the latest content.
+See [BUILDING.md](../BUILDING.md) for instructions on fetching the latest content through Chrome.
 EOF
 
     log "Index generated: $INDEX_FILE"
 }
 
+# ── Generate the compact, source-linked skill body ──
+
+generate_skill() {
+    log "Generating skill instructions..."
+
+    if [ ! -f "$INDEX_FILE" ] || [ ! -d "$CONTENT_DIR/spraksporsmal" ]; then
+        echo "ERROR: Reference index or Q&A directory not found in $CONTENT_DIR" >&2
+        return 1
+    fi
+
+    local qa_count body_file updated_file
+    qa_count=$(find "$CONTENT_DIR/spraksporsmal" -name '*.md' -type f | wc -l | tr -d ' ')
+    if [ "$qa_count" -eq 0 ]; then
+        echo "ERROR: No Q&A articles found in $CONTENT_DIR" >&2
+        return 1
+    fi
+
+    body_file=$(mktemp "${TMPDIR:-/tmp}/norwegian-skill-body.XXXXXX")
+    updated_file=$(mktemp "${SKILL_FILE}.tmp.XXXXXX")
+
+    cat > "$body_file" << 'EOF'
+## Workflow
+
+1. Establish whether the text should be in Bokmål or Nynorsk. Follow the user's existing variety when not specified; ask if the choice matters and is unclear.
+2. Locate the relevant topic below or in [the reference index](references/INDEX.md). Read the relevant source file before applying a specific rule; do not treat these links as a complete summary of the rules.
+3. Preserve the writer's meaning and intended audience when editing. For spelling and inflection not covered by the references, consult [Bokmålsordboka](https://ordbokene.no/bm) or [Nynorskordboka](https://ordbokene.no/nn). State uncertainty rather than inventing a rule.
+
+## Topic Guide
+
+| Topic | Detailed guidance |
+| --- | --- |
+EOF
+
+    local topic reference
+    while IFS='|' read -r topic reference; do
+        if [ ! -f "$CONTENT_DIR/$reference" ]; then
+            echo "ERROR: Missing reference: $reference" >&2
+            rm -f "$body_file" "$updated_file"
+            return 1
+        fi
+        printf '| %s | [`%s`](references/%s) |\n' "$topic" "$reference" "$reference" >> "$body_file"
+    done << 'EOF'
+Comma rules|rettskriving-og-grammatikk/kommaregler.md
+Capitalization|rettskriving-og-grammatikk/stor-eller-liten-forbokstav.md
+Numbers, times, and dates|rettskriving-og-grammatikk/tall-tid-dato.md
+Compound words|rettskriving-og-grammatikk/bindebokstaver-i-sammensatte-ord.md
+Å versus og|rettskriving-og-grammatikk/a-eller-og.md
+Da versus når|rettskriving-og-grammatikk/da-eller-nar.md
+De versus dem|rettskriving-og-grammatikk/de-eller-dem.md
+Plain language (Bokmål)|klarsprak-om-skriving/generelle-skriverad-bokmal.md
+Plain language (Nynorsk)|klarsprak-om-skriving/generelle-skriverad-nynorsk.md
+Language in digital services|klarsprak-om-skriving/sprak-i-digitale-tenester.md
+Bureaucratic wording (Kansellisten)|praktisk-sprakbruk/kansellisten.md
+Sensitive language|praktisk-sprakbruk/sensitive-ord.md
+Gender-balanced language|praktisk-sprakbruk/kjonnsbalansert-sprak.md
+EOF
+
+    cat >> "$body_file" << EOF
+
+## Other Questions
+
+Search the ${qa_count} Q&A articles in \`references/spraksporsmal/\` by filename or keyword (for example, \`grep -rl 'keyword' references/spraksporsmal/\`). Read only the relevant answers. For other topics, consult [the reference index](references/INDEX.md).
+
+For maintaining this skill and updating its sources, see [BUILDING.md](BUILDING.md).
+EOF
+
+    if ! awk -v body_file="$body_file" '
+        BEGIN {
+            start = "<!-- BEGIN GENERATED: scripts/generate-skill.sh -->"
+            finish = "<!-- END GENERATED: scripts/generate-skill.sh -->"
+        }
+        $0 == start {
+            if (begins++ || inside) invalid = 1
+            print
+            while ((getline line < body_file) > 0) print line
+            close(body_file)
+            inside = 1
+            next
+        }
+        $0 == finish {
+            if (!inside || ends++) invalid = 1
+            inside = 0
+            print
+            next
+        }
+        !inside { print }
+        END {
+            if (begins != 1 || ends != 1 || inside || invalid) {
+                print "ERROR: Expected exactly one pair of generated-section markers in SKILL.md" > "/dev/stderr"
+                exit 1
+            }
+        }
+    ' "$SKILL_FILE" > "$updated_file"; then
+        rm -f "$body_file" "$updated_file"
+        return 1
+    fi
+
+    chmod 644 "$updated_file"
+    mv "$updated_file" "$SKILL_FILE"
+    rm -f "$body_file"
+    log "Skill generated: $SKILL_FILE"
+}
+
 # ── Main ──
 
-generate_index
-
-if [ "$1" = "--index-only" ]; then
-    exit 0
-fi
+case "${1:-}" in
+    --index-only) generate_index; exit 0 ;;
+    --skill-only) generate_skill; exit 0 ;;
+    "") generate_index; generate_skill ;;
+    *) echo "Usage: scripts/generate-skill.sh [--index-only|--skill-only]" >&2; exit 1 ;;
+esac
 
 # ── Show summary with quality metrics ──
 

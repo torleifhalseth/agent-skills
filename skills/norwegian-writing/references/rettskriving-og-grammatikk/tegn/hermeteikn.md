@@ -64,7 +64,7 @@ Her har du «rydda» fint, ser det ut til.»
 **Hermeteikn **(doble)** eller kursiv kan brukast på ord som står som språklege døme:**
 
 ««Skrive» er eit sterkt verb.»
-«Skrive er eit sterkt verb.»
+«*Skrive* er eit sterkt verb.»
 
 Når ein bruker kursiv på ordet, set ein tydinga i hermeteikn. I fagtekst brukar ein då helst enkle hermeteikn:
 

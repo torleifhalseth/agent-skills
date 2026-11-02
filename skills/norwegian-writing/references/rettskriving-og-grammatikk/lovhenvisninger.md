@@ -34,8 +34,6 @@ Mange lover har en korttittel i tillegg til den lange. En korttittel er offisiel
 
 Andre lover har gjennom praksis fått mer eller mindre innarbeidede korttitler. Disse korttitlene er ikke offisielle.
 
--   lov om rett til innsyn i offentleg verksemnd → offentleglova
-
 I vanlige prosatekster er det mer vanlig og leservennlig å bruke korttittel (offisiell eller uoffisiell) når vi henviser til lover.
 
 ## Forkortelser
@@ -57,7 +55,7 @@ Lover er delt inn i *paragrafer*. Paragrafer er delt inn i *ledd*, som tilsvar
 Et ledd kan inneholde punktlister med f.eks. oppramsing av vilkår. I punktlister i lovtekster brukes som regel bokstavpunkter, ikke strekpunkter eller kulepunkter.
 
 -   [Mer informasjon om punktlister](https://sprakradet.no/klarsprak/sprak-i-lover-og-forskrifter/skriverad/struktur-i-lover-og-forskrifter/punktlister/)
--   [Mer informasjon om inndeling av lover (regjeringen.no)](https://www.regjeringen.no/globalassets/upload/kilde/jd/bro/2000/0003/ddd/pdfv/108138-lovteknikkboka.pdf)
+-   [Mer informasjon om inndeling av lover (regjeringen.no)](https://www.regjeringen.no/contentassets/60ba043ef0cf4413ac2a5a8951c77e45/lovteknikkboka-oppdatert.pdf)
 
 Vi kan skrive ordet *paragraf* eller bruke tegnet §. Paragraftegnet står alltid foran tallet:
 
@@ -152,7 +150,7 @@ Når vi henviser til en uoffisiell korttittel, bør vi bruke samme skriftspråk 
 **Henvisninger i lovtekster og forskriftstekster
 **I en lovtekst eller forskriftstekst gjelder andre regler. Der henviser vi alltid til en annen lov eller forskrift med det skriftspråket som er brukt i loven/forskriften det henvises til, uansett om vi bruker den fullstendige tittelen eller den offisielle korttittelen. 
 
-Har du spørsmål om lover, lovteknikk og lovhenvisninger, kan du ta kontakt med Justis- og beredskapsdepartementet. Se også veiledningsheftet [Lovteknikk og lovforberedelse (regjeringen.no)](https://www.regjeringen.no/globalassets/upload/kilde/jd/bro/2000/0003/ddd/pdfv/108138-lovteknikkboka.pdf).
+Har du spørsmål om lover, lovteknikk og lovhenvisninger, kan du ta kontakt med Justis- og beredskapsdepartementet. Se også veiledningsheftet [Lovteknikk og lovforberedelse (regjeringen.no)](https://www.regjeringen.no/contentassets/60ba043ef0cf4413ac2a5a8951c77e45/lovteknikkboka-oppdatert.pdf).
 
 
 ---

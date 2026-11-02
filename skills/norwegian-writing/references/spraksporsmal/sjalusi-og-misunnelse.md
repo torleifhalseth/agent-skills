@@ -29,7 +29,7 @@ I eldre norsk talemål het det blant annet *[åbry/åbru/åbryen/åbruen](http:/
 
 Særlig yngre språkbrukere har en tendens til å bruke ordet *sjalu* og *sjalusi* om *misunne* og *misunnelse* generelt, som i engelsk. Bildet er sammensatt også i [eldre dansk](http://ordnet.dk/ods/ordbog?query=jalousi), som jo er det historiske hovedgrunnlaget for norsk skriftkultur, men det er ikke eldre dansk som er grunnlaget for den nye ordbruken blant unge. ([Den Danske Ordbog](http://ordnet.dk/ddo) holder forresten på skillet, se *[jalousi](http://ordnet.dk/ddo/ordbog?aselect=jalousi,1&query=jalou)*.)
 
-Også på engelsk skiller man gjerne mellom *envious* ‘misunnelig*’ o*g *jealous* ‘sjalu’. Men *jealous* er noe mer enn i norsk. Dessuten er *jealous* også ordet for det å ville ha noe for seg selv, generelt; det er i slekt med gjerrighet og eiesyke. Skillet svarer altså ikke helt til det norske. Dessuten er er mye overlapping mellom *envy* og *jealousy* som går nokså langt tilbake. Sammenglidningen hos unge norsktalende er av nyere dato enn overlappingen i engelsk.
+Også på engelsk skiller man gjerne mellom *envious* ‘misunnelig*’ o*g *jealous* ‘sjalu’. Men *jealous* er noe mer enn i norsk. Dessuten er *jealous* også ordet for det å ville ha noe for seg selv, generelt; det er i slekt med gjerrighet og eiesyke. Skillet svarer altså ikke helt til det norske. Dessuten er det mye overlapping mellom *envy* og *jealousy* som går nokså langt tilbake. Sammenglidningen hos unge norsktalende er av nyere dato enn overlappingen i engelsk.
 
 
 ---

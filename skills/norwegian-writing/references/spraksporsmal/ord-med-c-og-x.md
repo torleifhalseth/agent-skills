@@ -8,7 +8,7 @@ Har dere en liste over ord som skal skrives med c og x på norsk? Hvordan er det
 
 ## Svar
 
-**Nei, det finnes ikke helt generelle regler. Hvis du lurer på om et ord skal skrives med c eller x eller ikke, er det enkleste å gå rett til [ordbøkene våre](https://ordbokene.no/bm,nn/search?q=canadisk&scope=e).**
+**Nei, det finnes ikke helt generelle regler. Hvis du lurer på om et ord skal skrives med c eller x eller ikke, er det enkleste å gå rett til [ordbøkene våre](https://ordbokene.no/nno/bm,nn/canadisk).**
 
 Allerede på 1800-tallet begynte vi å skrive s, k og ks i mange fremmedord med c og x. Denne fornorskingen har vært en langsom prosess. For eksempel ble det først i 1938 obligatorisk å skrive *eksellent* for *excellent*. Vi kan ikke love at ortografien noen gang blir helt konsekvent på dette området.
 

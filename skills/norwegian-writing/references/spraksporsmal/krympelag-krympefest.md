@@ -18,7 +18,7 @@ Reint grammatisk kan ein krympe både ei hending, ein vinst og den heldige perso
 
 ![](/wp-content/uploads/krympelag-krympefest-17.png)
 
-I *[Norsk Ordbok](http://no2014.uio.no/perl/ordbok/no2014.cgi)* fra Samlaget ser vi at ordet er ganske utbreitt, og at alkohol ikkje (lenger) er heilt obligatorisk:
+I *[Norsk Ordbok](https://norsk-ordbok.no/nob/no/krympa)* fra Samlaget ser vi at ordet er ganske utbreitt, og at alkohol ikkje (lenger) er heilt obligatorisk:
 
 ![](/wp-content/uploads/krympelag-krympefest-18.png)
 

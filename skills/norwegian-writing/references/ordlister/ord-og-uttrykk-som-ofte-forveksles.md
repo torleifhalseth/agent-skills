@@ -175,8 +175,8 @@ diskret
 | varsom, taktfull, dempet | atskilt, avgrenset, distinkt |
 | Han holdt seg diskré i bakgrunnen | Diskret matematikk handler mest om hele tall |
 
-Diskré *er et eldre lån frå fransk. Dette adjektivet karakteriserer mennesker og deres væremåte. Skrivemåten er valgfri (*diskré *eller* diskret*), men ordet skal i alle tilfelle uttales uten -t.*
-*Fagordet* diskret *'atskilt' er et nyere lån frå engelsk. Det brukes om tall og data. Det motsatte av* diskret *i denne sammenhengen er* kontinuerlig*. Merk at fagordet* diskret *skal uttales med t!*
+Diskré *er et eldre lån fra fransk. Dette adjektivet karakteriserer mennesker og deres væremåte. Skrivemåten er valgfri (*diskré *eller* diskret*), men ordet skal i alle tilfelle uttales uten -t.*
+*Fagordet* diskret *'atskilt' er et nyere lån fra engelsk. Det brukes om tall og data. Det motsatte av* diskret *i denne sammenhengen er* kontinuerlig*. Merk at fagordet* diskret *skal uttales med t!*
 
 ## dramatisk
 drastisk

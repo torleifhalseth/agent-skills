@@ -11,7 +11,7 @@ Mange snakker om *å kjenne sine pappenheimere.* Men det kan da ikke være særl
 **Det står i *B******okmålsordboka*** **at en *[pappenheimer](https://ordbokene.no/nob/bm/pappenheimer)*** **var en soldat under grev [Pappenheim](https://snl.no/Gottfried_Heinrich_Pappenheim) i trettiårskrigen (1618****–1648), og at det har betydd ‘trofast tilhenger’. Uttrykket *jeg kjenner mine pappenheimere* brukes nokså uavhengig av dette; det betyr bare at man vet hvem man har med å gjøre.
 **
 
-I *[Den Danske Ordbog](http://ordnet.dk/ddo)* får vi dessuten vite at det faste uttrykket er «udbredt som (skjult) citat fra Schillers skuespil ‘Wallenstein’» (fullført i 1799). I stykket sier feltherren Albrecht von Wallenstein «Daran erkenn ich meine Pappenheimer». Det er er ment som en anerkjennelse av grev Pappenheims *kyrasserere* (ryttersoldater med *[kyrass](https://ordbokene.no/nob/bm,nn/kyrass)*). Selve ordet *pappenheimer* har også senere vært brukt i positiv betydning.
+I *[Den Danske Ordbog](http://ordnet.dk/ddo)* får vi dessuten vite at det faste uttrykket er «udbredt som (skjult) citat fra Schillers skuespil ‘Wallenstein’» (fullført i 1799). I stykket sier feltherren Albrecht von Wallenstein «Daran erkenn ich meine Pappenheimer». Det er ment som en anerkjennelse av grev Pappenheims *kyrasserere* (ryttersoldater med *[kyrass](https://ordbokene.no/nob/bm,nn/kyrass)*). Selve ordet *pappenheimer* har også senere vært brukt i positiv betydning.
 
 ## Ironisk vending
 

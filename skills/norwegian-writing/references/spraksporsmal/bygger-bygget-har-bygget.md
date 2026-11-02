@@ -2,7 +2,7 @@
 
 ## Spørsmål
 
-Er det lov å skrive *har bygget* på bokmål, eller er er det bare *har bygd* som er godkjent?
+Er det lov å skrive *har bygget* på bokmål, eller er det bare *har bygd* som er godkjent?
 
 ---
 

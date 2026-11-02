@@ -352,7 +352,7 @@ de reiste **via/om**/**over** Kastrup
 
 ## Preposisjoner ved stedsnavn
 
-Mange er usikre på **i** og **på** foran stedsnavn når de skal fortelle om noe som foregår eller befinner seg på det aktuelle stedet. Her er tradisjonen slik at foran de fleste norske stedsnavn, også navn på byer og tettsteder, brukes **i**, men foran en del slike navn er **på** den tradisjonelle preposisjonen. Man bør merke seg at der stedsnavnet også er kommunenavn, kan det være riktig å velge **i** når man sikter til kommunen, sjøl om det er tradisjon for **på** foran by-eller tettstednavnet. Et par eksempler: Den som er i Heddal i Telemark, er «i Notodden» (kommunen), men ikke «på Notodden» (i bysentret). Folk fra Hamar vil gjerne si at de bor «på Hamar» når de mener bysentret, men «i Hamar»når de mener kommunen. Nedenfor finner du lister med eksempler på bruk av preposisjoner ved stedsnavn.
+Mange er usikre på **i** og **på** foran stedsnavn når de skal fortelle om noe som foregår eller befinner seg på det aktuelle stedet. Her er tradisjonen slik at foran de fleste norske stedsnavn, også navn på byer og tettsteder, brukes **i**, men foran en del slike navn er **på** den tradisjonelle preposisjonen. Man bør merke seg at der stedsnavnet også er kommunenavn, kan det være riktig å velge **i** når man sikter til kommunen, sjøl om det er tradisjon for **på** foran by-eller tettstednavnet. Et par eksempler: Den som er i Heddal i Telemark, er «i Notodden» (kommunen), men ikke «på Notodden» (i bysenteret). Folk fra Hamar vil gjerne si at de bor «på Hamar» når de mener bysenteret, men «i Hamar» når de mener kommunen. Nedenfor finner du lister med eksempler på bruk av preposisjoner ved stedsnavn.
 
 -   Vi anbefaler **i** foran disse norske stedsnavnene:
 
@@ -742,7 +742,7 @@ ho gav alle pengane **åt/til** barna sine; dei sa det **åt/til** læraren
 
 ## Preposisjonar ved stadnamn
 
-Mange er usikre på **i** og **på** framfor stadnamn når dei skal fortelje om noko som går føre seg eller er på den aktuelle staden. Her er tradisjonen slik at framfor dei fleste norske stadnamn, også namn på byar og tettstader, bruker ein **i**, men framfor ein del slike namn er **på** den tradisjonelle preposisjonen. Ein bør merke seg at der stadnamnet også er kommunenamn, kan det vere rett å velje **i** når ein meiner kommunen, sjølv om det er tradisjon for **på** framfor by- eller tettstadnamnet. Eit par døme: Den som er i Heddal i Telemark, er «i Notodden» (kommunen), men ikkje «på Notodden» (i bysentret). Folk frå Hamar vil gjerne seie at dei bur «på Hamar» når dei meiner bysentret, men «i Hamar» når dei meiner kommunen. Nedenfor finn du lister med døme på bruk av preposisjonar ved stadnamn.
+Mange er usikre på **i** og **på** framfor stadnamn når dei skal fortelje om noko som går føre seg eller er på den aktuelle staden. Her er tradisjonen slik at framfor dei fleste norske stadnamn, også namn på byar og tettstader, bruker ein **i**, men framfor ein del slike namn er **på** den tradisjonelle preposisjonen. Ein bør merke seg at der stadnamnet også er kommunenamn, kan det vere rett å velje **i** når ein meiner kommunen, sjølv om det er tradisjon for **på** framfor by- eller tettstadnamnet. Eit par døme: Den som er i Heddal i Telemark, er «i Notodden» (kommunen), men ikkje «på Notodden» (i bysenteret). Folk frå Hamar vil gjerne seie at dei bur «på Hamar» når dei meiner bysenteret, men «i Hamar» når dei meiner kommunen. Nedenfor finn du lister med døme på bruk av preposisjonar ved stadnamn.
 
 -   Vi rår til **i** framfor desse norske stadnamna:
 

@@ -10,7 +10,7 @@
 
 **Nei. *Rørte partar* er tullenynorsk. Ein bør heller skrive *berørte* om ikkje noko anna høver. Men ofte finst det gode alternativ.**
 
-*Å berøre* er ikkje eit av dei orda som kan takast inn i nynorske ordlister, men det er eit ord ein ofte kan ha bruk for. I overførd tyding bør *berørt* absolutt ikkje omsetjast med *rørt*. Det kunne i teorien heitt \**vedrørte partar*, men det er ikkje innarbeidd.
+Å berøre er ikkje eit av dei orda som kan takast inn i nynorske ordlister, men det er eit ord ein ofte kan ha bruk for. I overført tyding bør *berørt* absolutt ikkje omsetjast med *rørt*. Det kunne i teorien heitt \**vedrørte partar*, men det er ikkje innarbeidd.
 
 Det finst ikkje ein einskild ekvivalent.
 

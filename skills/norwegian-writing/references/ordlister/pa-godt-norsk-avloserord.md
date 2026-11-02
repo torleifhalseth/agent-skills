@@ -59,7 +59,7 @@ Lista representerer ikke et påbud eller vedtak fra Språkrådet, men bygger på
 | **beacon technology** | mobilfyrteknologi, nettvardeteknologi | mobilfyrteknologi, nettvardeteknologi |
 | **bear market** | bjørnemarknad | bjørnemarked |
 | **benchmark** | referansenivå, -norm, -verdi, styringsmål, samanlikningsgrunnlag (allment/nær.liv); fastmerke (landmåling) | referansenivå, -norm, -verdi, styringsmål, sammenligningsgrunnlag (allment/nær.liv); fastmerke (landmåling) |
-| **benchmark test** | yteprøve (IKT) | yteprøve (IKT) |
+| **benchmark test** | ytelsestest, yteprøve (IKT) | ytingsprøve, yteprøve (IKT) |
 | **benchmarking** | referansemåling, referansenormering, styringsnormering | referansemåling, referansenormering, styringsnormering |
 | **best practice** | mønsterpraksis, bestepraksis, beste praksis | mønsterpraksis, bestepraksis, beste praksis |
 | **bias** | skeivskap, halling (i ei viss lei), slagside | skjevhet, helling (i en viss retning), slagside |
@@ -125,7 +125,7 @@ Lista representerer ikke et påbud eller vedtak fra Språkrådet, men bygger på
 | **citizen science** | folkeforsking, grasrotforsking | folkeforsking, grasrotforsking |
 | **clickbait** | klikkagn, klikkfang | klikkagn, klikkfang |
 | **clou (frå fransk)** | høgdepunkt, glansnummer | høydepunkt, glansnummer |
-| **cloud computing** | nettsky (IKT) | nettsky (IKT) |
+| **cloud computing** | databehandling i sky (IKT) | datahandsaming i sky (IKT) |
 | **clue** | nøkkel, kjerne, poeng | nøkkel, kjerne, poeng |
 | **clutch** | koplingspedal, kløtsj | koplingspedal, kløtsj |
 | **coach** | trenar, rettleiar, leiar, rådgjevar | trener, veileder, leder, rådgiver |
@@ -269,8 +269,8 @@ Lista representerer ikke et påbud eller vedtak fra Språkrådet, men bygger på
 | **gadget** | dings | dings |
 | **gate** | utgang (på flyplass) | utgang (på flyplass) |
 | **geek** | fagidiot; særling; dust | fagidiot; særling; dust |
-| **General Data Protection Regulation (GDPR)** | personvernforordningen (PVF) | personvernforordningen (PVF) |
-| **ghost writer** | skyggeforfatter | skuggeforfattar |
+| **General Data Protection Regulation (GDPR)** | personvernforordninga (PVF) | personvernforordningen (PVF) |
+| **ghost writer** | skuggeforfattar | skyggeforfatter |
 | **Global Positioning System (GPS)** | globalt posisjonsystem (GPS) | globalt posisjonsystem (GPS) |
 | **golden goal** | førstemålssiger, «første målet vinn» | førstemålsseier, «første målet vinner» |
 | **goodwill** | velvilje, godvilje | velvilje, godvilje |
@@ -510,10 +510,11 @@ Lista representerer ikke et påbud eller vedtak fra Språkrådet, men bygger på
 | **rack** | reol (mus., IKT, allment) | reol (mus., IKT, allment) |
 | **rail** | takreling, takhaldar (tekn.); reling (allment) | takreling, takholder (tekn.); reling (allment) |
 | **ransomware** | løysepengevirus, utpressingsvirus, gisselskadevare | løsepengevirus, utpressingsvirus, gisselskadevare |
-| rant | tirade, harang | tirade, harang |
+| **rant** | tirade, harang | tirade, harang |
 | **raw food** | råmat | råmat |
 | **reality-TV** | røyndoms-TV, dokusåpe | virkelighets-TV, dokusåpe |
 | **recovery** | (helse) tilfrisking | (helse) tilfriskning |
+| **reel** | videosnutt, snutt, kortvideo (i sosiale medier) | videosnutt, snutt, kortvideo (i sosiale medium) |
 | **referee** | fagkonsulent (i tidsskrift) | fagkonsulent (i tidsskrift) |
 | **refill** | påfyll | påfyll |
 | **release** | plateslepp | plateslipp |

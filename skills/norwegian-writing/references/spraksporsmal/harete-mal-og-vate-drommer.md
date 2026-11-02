@@ -14,9 +14,11 @@ I Tone Trytis *Norsk slang* (1984) er *hårete* notert som eit «minusadjektiv»
 
 Begge bruksmåtane kjem frå engelsk. Slangordbøker for engelsk viser at *hairy* lenge har vore brukt med både positiv og negativ tyding, i ei rekkje samanhengar og på til dels ulik måte i ulike variantar av engelsk (amerikansk, britisk, irsk osv.). Ei mogleg bru til den nye tydinga er attenhundretals engelsk universitetsslang, der *hairy* kunne tyde ‘vanskeleg’.
 
-Det kan sjå ut til at reklamemannen Ingebrigt Steen Jensen har noko av æra for at uttrykket er omsett til norsk. Det eldste dømet vi finn i avisene, er frå Dagens Næringsliv 31.3.2000:
+Det kan sjå ut til at reklamemannen Ingebrigt Steen Jensen har æra for at uttrykket er omsett til norsk. Det eldste dømet vi finn i avisene, er frå Dagens Næringsliv 31.3.2000:
 
 ![](/wp-content/uploads/harete-mal-og-vate-drommer-1.png)
+
+Sjå òg [denne NRK-artikkelen](https://www.nrk.no/mr/xl/store-harete-mal-blei-viktig-i-kommunane-da-ona-fyr-av-ingebrigt-steen-jensen-selde-150.000-i-2001-1.17689911), som fortel om korleis uttrykket spreidde seg i åra som følgde.
 
 Så til «våte drømmer», eller «våte draumar», som det må heite på nynorsk: Uttrykket «wet dreams» er notert på engelsk alt i 1920-åra. Denne uttrykksmåten har opphavleg klåre seksuelle undertonar. Det kan vere greitt å vite før ein slår om seg med uttrykket. Som det står i boka [*Våre drømmer*](http://www.nb.no/nbsok/nb/18b9dc9508b5eb761c23f58373553079?index=4#0) (no. utg. Cappelen 1963):
 

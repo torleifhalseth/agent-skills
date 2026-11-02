@@ -45,7 +45,7 @@ fotballkampen Østerrike–Ungarn»
 **Tankestrek (kort) på Mac/PC**
 
 Mac: Alt-tast + bindestrek
-PC: Alt-tast + 0150 (på numerisk tastatur)
+PC: Alt-tast + 0150 (på numerisk tastatur) eller Windows-tasten + bindestrek (Windows 11)
 
 
 ---

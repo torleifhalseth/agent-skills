@@ -4,7 +4,7 @@ Ord og uttrykk som kan byttes ut
 
 ---
 
-[Om Kansellisten](#Om-Kansellisten)
+[Om Kansellisten, og lenke til lista i pdf-format.](#Om-Kansellisten)
 
 ## A
 

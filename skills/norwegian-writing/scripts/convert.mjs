@@ -208,6 +208,7 @@ if (pageTitle && !markdown.match(/^# /m)) {
 markdown = markdown.replace(/\n{3,}/g, '\n\n');
 
 // Trim
+markdown = markdown.replace(/[ \t]+$/gm, '');
 markdown = markdown.trim();
 
 console.log(markdown);

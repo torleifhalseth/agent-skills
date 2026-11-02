@@ -90,13 +90,13 @@ Grammatiske enheter holdes samlet. Når en setning går over flere blokker, bør
 
 ![](https://sprakradet.no/wp-content/uploads/retningslinjer-for-god-teksting6.jpg)
 
-![](https://sprakradet.no/wp-content/uploads/retningslinjer-for-god-teksting7.jpg)
+![](https://sprakradet.no/wp-content/uploads/retningslinjer-for-god-teksting9.jpg)
 
 #### Men slik:
 
 ![](https://sprakradet.no/wp-content/uploads/retningslinjer-for-god-teksting8.jpg)
 
-![](https://sprakradet.no/wp-content/uploads/retningslinjer-for-god-teksting9.jpg)
+![](https://sprakradet.no/wp-content/uploads/retningslinjer-for-god-teksting7.jpg)
 
 ### Komprimering
 

@@ -12,7 +12,7 @@ Hva er egentlig forskjellen på *ras* og *skred*?
 
 *Ras*: Alt som løsner og raser ut eller ned, kan i prinsippet kalles ras. Eksempel: Når det raser snø fra taket, kaller vi det *snøras* eller *takras*.
 
-*[Skred](https://ordbokene.no/nob/bm,nn/skred)* er likevel det vanligste ordet for store ras i naturen. Det gjelder både i fagspråket og allmennspråket. Se for eksempel nettstedet [varsom.no](http://www.varsom.no).
+*[Skred](https://ordbokene.no/nob/bm,nn/skred)* er likevel det vanligste ordet for store ras i naturen. Det gjelder både i fagspråket og allmennspråket. Se for eksempel nettstedet [varsom.no](https://www.varsom.no).
 
 ## Opprinnelsen til ordet *skred*
 

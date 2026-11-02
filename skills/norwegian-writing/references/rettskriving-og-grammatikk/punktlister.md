@@ -65,10 +65,10 @@ Sensor skal leggje vekt på
 -   kva arbeid studenten faktisk har utført
 -   korleis studenten har nærma seg stoffet
 -   kva metode studenten har brukt, til dømes
+
     -   intervju
+
     -   spørjeundersøking
--   intervju
--   spørjeundersøking
 
 ## Parallell oppføring
 
@@ -114,11 +114,9 @@ Når du fyller ut skattemeldinga (før: sjølvmeldinga), må du hugse på dette:
 -   Du skal føre opp nettoinntekt ved utleige av bustad.
 -   Du skal føre opp nettoinntekt ved utleige av tomt.
 
-**Det går fram av døma at det skal vere punktum til slutt berre etter heile setningar.**
+**Dei allmenne reglane for stor forbokstav og punktum gjeld her òg: Berre punkt med heile setningar skal innleiast med stor forbokstav og ha punktum til slutt.**
 
-## Forbokstav
-
-**Forbokstaven i punkta skal vere stor berre dersom punkta inneheld ei heil setning (eller fleire).**
+## Meir informasjon
 
 -   [Informasjon om punktlister i regelverk](https://sprakradet.no/klarsprak/sprak-i-lover-og-forskrifter/skriverad/struktur-i-lover-og-forskrifter/punktlister/)
 

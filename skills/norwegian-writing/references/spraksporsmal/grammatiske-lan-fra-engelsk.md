@@ -10,14 +10,20 @@ Jeg vet at norsk importerer engelske ord og uttrykk, både i rå og oversatt for
 
 **Ja, det finnes visse tendenser til grammatisk, særlig syntaktisk, påvirkning.**
 
-Noen av de uttrykkene vi har samlet i artikkelen [Oversettelseslån (betydningslån og fraselån) fra engelsk](https://sprakradet.no/spraksporsmal-og-svar/oversettelseslan-fra-engelsk/), skiller seg også *grammatisk* fra de lignende norske uttrykkene. Det kan være snakk om bortfall eller tillegg av preposisjoner, ny bruk av funksjonsord eller endring av valensen til verb (eksempel: *jeg forlot* uten objekt, jamfør *I left*). Import av nye mønster for ordkombinasjon kan vi kalle *grammatisk lån*.
+Noen av de uttrykkene vi har samlet i artikkelen [Oversettelseslån (betydningslån og fraselån) fra engelsk](https://sprakradet.no/spraksporsmal-og-svar/oversettelseslan-fra-engelsk/), skiller seg også *grammatisk* fra de lignende norske uttrykkene.  Her nevner vi noen flere.
 
-Et ganske klart eksempel på grammatisk lån hos noen brukere av norsk er tillegg av ubestemt artikkel (*en*, *ei*, *et*) i omtale av yrke eller funksjon:
+Det kan være snakk om bortfall eller tillegg av preposisjoner, ny bruk av funksjonsord eller endring av valensen til verb (eksempel: *jeg forlot* uten objekt, som i *I left*). Import av nye mønster for ordkombinasjon kan vi kalle *grammatisk lån*.
+
+## Tillegg av ubestemt artikkel (*en*, *ei, et)*
+
+Et ganske klart eksempel på grammatisk lån er tillegg av ubestemt artikkel (*en*, *ei*, *et*) i omtale av yrke eller funksjon:
 
 **hun er en lærer/lege** osv. (*she is a …*)
 norsk: hun er lærer/lege
 
 Over denne lesten sys mange formuleringer. På norsk bruker vi tradisjonelt artikkel bare når substantivet har et attributt foran seg, som i «hun er en god lærer».
+
+## *Også ikke* for heller
 
 Et annet eksempel på mer eller mindre grammatisk endring er utskifting av *heller* med *også* i nektelser (etter subjektet og verbalet):
 
@@ -25,7 +31,15 @@ Et annet eksempel på mer eller mindre grammatisk endring er utskifting av *hell
 
 Merk at innlån av fraser og mønster gjerne støttes av indre krefter i språket, slik at det kan være vanskelig slå fast hva som er hoveddrivkraften. Behovet for å kunne bruke de vanligste og mest standardiserte byggesteinene når vi snakker og skriver, er en indre drivkraft. Ordet *også* er det vi oftest bruker om tillegg, så det vil gjerne tvinge seg fram (det tærer også på ordet *dessuten*, som heller ikke har en vanlig engelsk ekvivalent).
 
-En annen indre drivkraft er behovet for å kunne innlede en setning med et hvilket som helst tema-ord (som *frykt* og *håp*). De følgende overgangene kan altså ha flere årsaker:
+## Innledning med tema-ord i stedet for «det» eller et konkret subjekt
+
+Dag Gundersen skrev i artikkelen «Om engelsk og norsk» i Språknytt 1996:
+
+*There*\-setninger på engelsk er ikke så vanlige som *Det*\-setninger på norsk, og det formelle/foreløpige subjektet *Det* mangler nå ofte i setninger som «Dersom skade oppstår ...», der det før ville hett «Hvis det oppstår skade .…».
+
+Det samme mønsteret ser vi i KI-genererte tekster. *Det*\-setninger er underrepresentert.
+
+Engelskpåvirkningen kopler seg her på en indre drivkraft i språket, nemlig behovet for å kunne innlede en setning med et hvilket som helst tema-ord. De følgende overgangene kan altså ha flere årsaker:
 
 **[frykten er at](https://www.nb.no/sp_tjenester/beta/ngram_1/#ngram/query?terms=frykten+er+at%2Cman+frykter+at%2Ben+frykter+at&lang=all&case_sens=0&freq=rel&corpus=avis)** eller **vår største frykt er at** (*the fear is that; our greatest fear is that*)før helst: vi/man/en er (mest) redde for at, vi/man/en frykter (mest av alt) at
 
@@ -34,28 +48,38 @@ før helst: vi/man/en håper at; det er håp om at
 
 Begge uttrykksmåtene er gamle i norsk, særlig den sistnevnte, men de har blitt mye vanligere de siste åra, så vi har i det minste å gjøre med såkalte frekvenslån.
 
-Påvirkningen kan være ganske subtil, som i «Jeg har aldri *hatt* kaffe» (for *smakt/drukket*) eller økt bruk av formuleringer som «Jeg hadde kylling i går» uten utfylling med f.eks. «til middag». (Merk at «Vi hadde …» er noe litt annet; på norsk lar  vi gjerne være å nevne måltidet når vi omtaler hele husstanden.)
+## *Er* (*is*) for *blir*
 
-Nedenfor lister vi opp flere eksempler på grammatisk påvirkning som for så vidt godt kunne stått i artikkelen [Oversettelseslån](https://www.sprakradet.no/svardatabase/sporsmal-og-svar/oversettelseslan-betydningslan-og-fraselan-fra-engelsk/).
+Eksempel: «Det er ofte sagt at» for «det blir ofte sagt at».
+
+## *Å ha* for *å smake*
+
+Påvirkningen kan være ganske subtil, som i «Jeg har aldri *hatt* kaffe» (for *smakt/drukket*) eller økt bruk av formuleringer som «Jeg hadde kylling i går» uten utfylling med f.eks. «til middag». (Merk at «Vi hadde …» er noe litt annet; på norsk lar  vi gjerne være å nevne måltidet når vi omtaler hele husstanden.)
 
 ## Bortfall av *seg*
 
 En del norske uttrykk med refleksivpronomen svarer til engelske uten. *Seg* faller bort ved oversettelseslån. Eksempel:
 
-**konsentrere** (*concentrate*) for *konsentrere seg*
+**konsentrere** (*concentrate*)
+norsk: *konsentrere seg*
 
 ## Tillegg av *selv* (*seg* > *seg selv*)
 
 Unødvendig understreking av refleksivpronomenet ved hjelp av trykksvakt *selv* vitner om påvirkning fra engelsk. Eksempler:
 
-**uttrykke seg selv** for *uttrykke seg
-***vaske seg selv** for *vaske seg*
+**uttrykke seg selv**
+norsk: *uttrykke seg*
+
+**vaske seg selv**
+norsk: *vaske seg*
 
 Der norsk bruker det refleksive pronomenet *meg/deg/seg* etter en del verb, har engelsk enten ingenting eller *myself*. Eksempel:
 
-*Jeg vasker meg = 1) I wash 2) I wash myself*
+*1) Jeg vasker meg = I wash
+2) Jeg vasker meg = I wash myself
+3) Jeg vasker meg selv = I wash myself*
 
-***Meg selv*** virker mye sterkere på norsk enn på engelsk. *Vaske **seg selv*** brukes bare i sjeldne situasjoner der det at man selv gjør vaskejobben, er litt uventet informasjon. Trykket ligger da på *selv* (som i *å* *lure seg selv* eller *ikke kunne tilgi seg selv*). Vi skiller mellom *å skade **seg*** (av vanvare, som er det vanlige) og *å skade **seg selv*** (med vilje og i motsetning til å skade andre), og vi skiller mellom å *klare **seg*** og å *klare **seg selv*** (eller *på egen hånd*).
+***Meg selv*** virker mye sterkere på norsk enn på engelsk. *Vaske **seg selv*** (3) brukes bare i sjeldne situasjoner der det at man selv gjør vaskejobben, er litt uventet informasjon. Trykket ligger da på *selv* (som i *å* *lure seg selv* eller *ikke kunne tilgi seg selv*). Vi skiller mellom *å skade **seg*** (av vanvare, som er det vanlige) og *å skade **seg selv*** (med vilje og i motsetning til å skade andre), og vi skiller mellom å *klare **seg*** og å *klare **seg selv*** (eller *på egen hånd*).
 
 Men vi bruker ikke *selv* i utrengsmål. Det heter ikke f.eks. *å ta seg selv en pause* eller *få seg selv en hund*, men *å ta (seg) en pause* og å *få (seg) hund*. (Unntak: Hvis det like før har vært snakk om at en annen har tatt en pause eller fått hund; da kan vi bruke *selv*, som vi setter til slutt i setningen.)
 
@@ -71,14 +95,10 @@ Oppsummering: Det trengs ikke understreking i form av *selv* i omtale av noe man
 
 Engelsk mangler et refleksivpronomen som svarer til *sin* osv. Det hender at norske skribenter unngår *si(n)*, *sitt* og *sine* og skriver *hans*, *hennes* og *deres* i stedet. Omskrivning i flertall (*deres*) er det vanligste. Her kan det også være snakk om påvirkning fra dansk, der *sine* osv. har et mindre bruksområde enn i norsk.
 
-Eksempel:
+Formuleringen i dette eksempelet er påvirket av engelsk eller dansk:
 
-(påvirket av engelsk eller dansk:)
 De fortalte om *\*deres* egne erfaringer (jf. engelsk *their*)
-
-(vanlig norsk:)
-
-De fortalte om *sine* erfaringer / erfaringene sine
+norsk: De fortalte om *sine* erfaringer / erfaringene sine
 
 Noen unngår problemet ved å sløyfe pronomenet og skrive *De fortalte om egne erfaringer*. Det er ingen grunn til å gjøre det. Økt bruk av *egne* kan nesten regnes som indirekte grammatisk påvirkning.
 
@@ -107,49 +127,49 @@ Bortfall, tillegg og utskifting av preposisjoner er nokså ulike fenomen, men vi
 **Tillegg av preposisjon**
 
 **kommentere på** (*comment on*)
-kommentere
+norsk: kommentere
 
 **innrømme til** (*admit to*)
-innrømme
+norsk: innrømme
 
 **Bortfall av preposisjon**
 
 **skuffet at** (*disappointed that*)
-skuffet over at
+norsk: skuffet over at
 
 **insistere at** (*insist that*)
-insistere på at
+norsk: insistere på at
 
 **usikker om** (*not sure whether/if/that*)
-usikker på om
+norsk: usikker på om
 
 **ha en tendens å** (*tend to, have a tendency to*)
-ha en tendens til å
+norsk: ha en tendens til å
 
 **trykk knappen** (*push the button*)
-trykk på/inn knappen
+norsk: trykk på/inn knappen
 
 **Utskifting av preposisjon**
 
-**dekket i, dekt i** *(covered in*)dekket/dekt av (f.eks. *av blod*) (men merk at *full i* er gammelt i mange dialekter og ikke lån)
+**dekket i, dekt i** *(covered in*)norsk: dekket/dekt av (f.eks. *av blod*) (men merk at *full i* er gammelt i mange dialekter og ikke lån)
 
 **i min mening**, **i mitt syn** (*in my opinion*, *in my view*)
-etter min mening, etter mitt syn, jeg mener …
+norsk: etter min mening, etter mitt syn, jeg mener …
 
 **fra avstand** (*from a distance*)
-på avstand
+norsk: på avstand
 
 **tanken av å** (*the thought of*)
-tanken på å
+norsk: tanken på å
 
 **lojal til** (*loyal to*)
-lojal mot (jf. *tro mot*)
+norsk: lojal mot (jf. *tro mot*)
 
 **laget/produsert fra** (*made from*) \*
-laget av (eller på)
+norsk: laget av (eller på)
 
 **kjærlighet for** (love for)
-kjærlighet til
+norsk: kjærlighet til
 
 ***Bruk av «av» som genitivsomskrivning***
 
@@ -158,33 +178,30 @@ På norsk kan vi bruke *av* for å knytte et verbalsubstantiv til et logisk obje
 ## **Spørreord (hv-) på nye steder, særlig foran infinitivsmerket *å***
 
 **hva å** **gjøre** (*what to do*)
-hva jeg/man skal/bør gjøre o.a.
+norsk: hva jeg/man skal/bør gjøre o.a.
 
 **hvordan å** **…** (*how to* …)
-slik (blir, gjør osv.), hvordan man (blir, gjør osv.)
+norsk: slik (blir, gjør osv.), hvordan man (blir, gjør osv.)
 
 **hvem å** **…** (*who to*, f.eks. *who to contact*)
-hvem kan/skal en/du …
+norsk: hvem kan/skal en/du …
 
 ***dette er hvordan***, f.eks. *dette er hvordan* *man gjør det*:
-slik gjør man (du) det, det er slik man gjør det og slik skal det gjøres
+norsk: slik gjør man (du) det, det er slik man gjør det og slik skal det gjøres
 
 **grunnen til *hvorfor*** (*the reason why*)
-grunnen til at
+norsk: grunnen til at
 
 En formulering som ***her er hva** jeg tenker* finnes i norsk fra før, men den hadde nok ikke blitt så vanlig som den er, uten engelsk innflytelse.
 
-## Flere eksempler
+## **Bruk av komparativ for superlativ i visse sammenhenger**
 
-***To go* + adjektiv (*solo, viral, native*)**
+Eksempel med *bedre – best*:
 
-Dette er et utbredt mønster i engelsk. I norsk er blant annet ***gå viralt*** og ***gå solo*** kommet inn ved siden av det eldre *gå bananas* ‘gå amok; fly i flint’. (Her har vi også eldre forbilder i norsk, som *gå berserk*.) *Å gå viralt* er å spre seg raskt og kraftig (som et virus), f.eks. på Internett, mens uttrykket *gå solo* ofte viser til å slutte i en gruppe og fortsette alene, altså å starte en solokarriere.
+Hvilken metode er **bedre**, A eller B?
+norsk: … er best …
 
-***Det var aldri* for *det har aldri vært***
-
-«Det var aldri vanlig å bruke preteritum på den måten» kan vi si på norsk hvis vi legger til en innsnevring «(der og der) i den og den perioden», men hvis vi viser til all fortid, heter det tradisjonelt «Det har aldri vært vanlig å bruke preteritum på den måten».
-
-**Apposisjoner med partisipp i stedet for relativsetninger med verbal**
+## **Apposisjoner med partisipp i stedet for relativsetninger med verbal**
 
 Eksempel:
 
@@ -192,7 +209,17 @@ Eksempel:
 
 (I eldre tekster kan formuleringer som «det gjort gikk jeg videre» være påvirkning fra latin.)
 
-**Setninger innledet med «Vi alle / Dere alle / De alle»**
+## Preteritum + *aldri*
+
+Dette er ikke noen absolutt regel, men på norsk er det en sammenheng mellom bruk av preteritum og nærmere presisering. Eksempel:
+
+*Det var aldri vanlig å bruke preteritum på den måten.*
+
+Denne formuleringen roper etter en nærmere presisering, for eksempel i form av «før». Hvis vi viser til all fortid uten presisering, heter det heller:
+
+*Det har aldri vært vanlig å bruke preteritum på den måten.*
+
+## **Setninger innledet med «Vi alle / Dere alle / De alle»**
 
 Eksempel: *Vi alle trodde på det som ble sagt.* 
 
@@ -206,6 +233,10 @@ I leddsetninger har vi riktignok alltid hatt ordstillingen pronomen + *alle*
 
 *fortellingen som vi alle trodde på*
 *det at vi alle trodde på fortellingen*
+
+## ***To go* + adjektiv (*solo, viral, native*)**
+
+Dette er et utbredt mønster i engelsk. I norsk er blant annet ***gå viralt*** og ***gå solo*** kommet inn ved siden av det eldre *gå bananas* ‘gå amok; fly i flint’. (Her har vi også eldre forbilder i norsk, som *gå berserk*.) *Å gå viralt* er å spre seg raskt og kraftig (som et virus), f.eks. på Internett, mens uttrykket *gå solo* viser til det å starte en solokarriere etter å ha vært en del av en gruppe.
 
 
 ---

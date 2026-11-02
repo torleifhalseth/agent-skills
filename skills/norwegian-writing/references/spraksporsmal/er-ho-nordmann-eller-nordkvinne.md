@@ -12,7 +12,7 @@ Må eg, som er kvinne, kalle meg *nordmann*, eller kan eg bruke *nordkvinne* i s
 
 *Nynorskordboka* definerer *[nordmann](https://ordbokene.no/nob/nn/nordmann)* som ‘person som høyrer heime i eller er frå Noreg’. Før vart ordet *mann* meir nytta i tydinga ‘menneske’, medan t.d. *kar* fungerte kjønnsspesifiserande. Etter kvart har *mann* vorte meir innsnevra til ‘menneske av hankjønn’, så det er ikkje rart at somme reagerer mot å bli kalla *nordmann*.
 
-Det er ikkje noko i vegen for å bruke ordet *nordkvinne*. Dette ordet er noko brukt, men ikkje så mykje at vi kan seie at det er etablert i norsk allmennspråk. Ofte kan det vere vel så naturleg å bruke uttrykket *norsk kvinne*. Om ein ikkje vil spesifisere kjønnet, kan ein elles bruke adjektivet *norsk* aleine, som i «eg er norsk». I mange dialektar har det forresten heitt [*ein* *norske*](https://alfa.norsk-ordbok.no/?men=noob&mc0=vno&mc1=ah&q=norske&but=norske&scope=e), på line med *danske* og *svenske.*
+Det er ikkje noko i vegen for å bruke ordet *nordkvinne*. Dette ordet er noko brukt, men ikkje så mykje at vi kan seie at det er etablert i norsk allmennspråk. Ofte kan det vere vel så naturleg å bruke uttrykket *norsk kvinne*. Om ein ikkje vil spesifisere kjønnet, kan ein elles bruke adjektivet *norsk* aleine, som i «eg er norsk». I mange dialektar har det forresten heitt [*ein* *norske*](https://norsk-ordbok.no/nno/no/norske), på line med *danske* og *svenske.* Ordet står òg i [rettskrivingsordbøkene](https://ordbokene.no/nob/bm,nn/norske).
 
 Du kan lese meir om kjønn og språk i rettleiinga «[Kjønnsbalansert språk](https://sprakradet.no/godt-og-korrekt-sprak/praktisk-sprakbruk/kjonnsbalansert-sprak/)» på nettsidene våre.
 

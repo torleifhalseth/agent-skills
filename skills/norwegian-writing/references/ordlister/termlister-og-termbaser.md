@@ -209,6 +209,7 @@ Termportalen gjev òg søkjetilgang i nokre basar som ikkje ligg i sjølve porta
 -   [Bygningsordliste på dansk (Center for Bygningsbevaring)](http://www.bygningsbevaring.dk/files/ordforklaringer.pdf)
 -   [Dansk-, svensk- og finskspråklege ordlister (Nordterm)](http://www.nordterm.net/wiki/sv/index.php/Termbanker_och_ordlistor)
 -   [Datatermar (Svenska datatermgruppen)](https://dataterm.termado.net/)
+
 -   [Den islandske termbanken Íðorðabankinn. Fleirspråkleg base](http://idord.arnastofnun.is/)
 -   [Eduskuntasanasto (Riksdagsordlista)](http://mot.kielikone.fi/mot/eduskuntasanasto/netmot?UI=sved)
 -   [Grafisk fagordbok på dansk (Svend Vesterli)](http://www.grafisk-ordbog.dk/)

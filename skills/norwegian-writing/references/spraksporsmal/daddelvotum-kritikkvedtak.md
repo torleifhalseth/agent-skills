@@ -8,7 +8,7 @@ Hvorfor snakker man om *daddelvotum* når statsråder får kritikk?
 
 ## Svar
 
-***Daddelvotum* eller *daddelvedtak* er det samme som *kritikkvedtak*. Første ledd er det samme som *[daddel](http://www.nob-ordbok.uio.no/perl/ordbok.cgi?OPP=+daddel&bokmaal=+&ordbok=bokmaal)* nummer to i Bokmålsordboka. Vi har ordet fra tysk via [dansk](http://ordnet.dk/ods/ordbog?query=dadelsvotum):**
+***Daddelvotum* eller *daddelvedtak* er det samme som *kritikkvedtak*. Første ledd er det samme som *[daddel](https://ordbokene.no/bm/9067)* nummer to i Bokmålsordboka. Vi har ordet fra tysk via [dansk](http://ordnet.dk/ods/ordbog?query=dadelsvotum):**
 
 ![](/wp-content/uploads/daddelvotum-kritikkvedtak-1.png)
 

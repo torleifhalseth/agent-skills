@@ -2,14 +2,13 @@
 
 ## Spørsmål
 
-Heiter det «forstå meg rett» eller «misforstå meg rett»? Eller er begge delar mogleg?
+Kvifor er det somme som seier «misforstå meg rett»?
 
 ---
 
 ## Svar
 
-**Uttrykksmåten «misforstå meg rett» er ein humoristisk kombinasjon av «forstå meg rett» og «misforstå meg ikkje». Til vanleg bør ein bruka eit av dei to sistnemnde uttrykka.
-**
+**Uttrykksmåten «misforstå meg rett» er ein humoristisk kombinasjon av «forstå meg rett» og «misforstå meg ikkje».** 
 
 *«*Misforstå meg rett» kan ha oppstått som ein glepp, men det er lenge sidan det vart ein fast frase til bruk i mindre høgtidlege samanhengar. Det fungerer som ein slags avvæpningsteknikk.
 
@@ -21,6 +20,8 @@ Ordlaget er sikkert eldre i dansk. Slik er det omtalt i *[Ordbog over det danske
 
 i spøgefulde eller forvrøvlede udtryk: *misforstaa mig ikke forkert* (dvs.: *misforstaa mig ikke*)*!* *misforstaa mig ret* (dvs.: *prøv at forstaa mig*)*!
 *
+
+Brukt på den rette måten har «misforstå meg rett» absolutt sin plass i språket.
 
 
 ---

@@ -2,7 +2,7 @@
 
 ## Spørsmål
 
-På Dagsrevyen i dag ble det snakket om bording av skip. Den ene reporteren kalte det «bårding», den andre kalte det «båring». Selv kaller jeg det *boring* med o. Hva er riktig?
+På Dagsrevyen i dag ble det snakket om bording av skip. Den ene reporteren kalte det «bårding» med d, den andre kalte det «båring». Selv kaller jeg det *boring* med o. Hva er riktig?
 
 ---
 

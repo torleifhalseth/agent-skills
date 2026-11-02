@@ -8,11 +8,13 @@ Nynorsk og bokmål har òg langt på veg same setningsbygnad, men jamt over har 
 
 [
 
-## Nynorsk øvingsrom
+## Nynorskordboka
 
-E-læring: Kartleggingstest og øvingar for skuleelevar
+Finn tyding, rett stavemåte og bøyingsmønster
 
-](http://elevrom.sprakradet.no/)
+![Logo - ordbøkene.no](https://sprakradet.no/wp-content/uploads/ordbokene.png)
+
+](https://ordbokene.no/nob/nn)
 
 ---
 

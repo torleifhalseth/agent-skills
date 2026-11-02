@@ -20,8 +20,8 @@ norwegian-writing/
 ├── README.md               # This file
 ├── LICENSE
 ├── scripts/
-│   ├── scrape.sh           # Script to update references from sprakradet.no
-│   └── generate-skill.sh   # Helper to review scraped content
+│   ├── scrape-chrome.mjs   # Update references through a Chrome session
+│   └── generate-skill.sh   # Generate the index and concise skill instructions
 └── references/             # Reference material (loaded on demand)
     ├── INDEX.md
     ├── rettskriving-og-grammatikk/   # Spelling & grammar rules
@@ -33,16 +33,7 @@ norwegian-writing/
     └── spraksporsmal/                # 1100+ Q&A articles
 ```
 
-## Updating References
-
-To fetch the latest guidelines from sprakradet.no:
-
-```bash
-cd skills/norwegian-writing
-bash scripts/scrape.sh
-```
-
-See [BUILDING.md](BUILDING.md) for details on how the scraping pipeline works, how to extend it, and how to troubleshoot issues.
+See [BUILDING.md](BUILDING.md) for instructions on updating references, maintaining the scraping pipeline, and troubleshooting issues.
 
 ## Topics Covered
 
@@ -72,16 +63,16 @@ See [BUILDING.md](BUILDING.md) for details on how the scraping pipeline works, h
 
 The skill is designed to minimize context window usage. Agents typically have 128k–200k tokens available, and this skill loads content in layers:
 
-1. **SKILL.md (~3k tokens)** — Always loaded when the skill is active. This is a compact quick-reference with the most common rules, so it barely dents the context budget.
+1. **SKILL.md (~900 estimated tokens)** — Loaded when the skill is active. It contains a short workflow and links to common topics, not a second copy of the rules.
 
-2. **INDEX.md (~1k tokens)** — Read on demand to discover what reference files are available. Each entry includes a token estimate so the agent can decide what's worth loading.
+2. **INDEX.md (~2.4k estimated tokens)** — Read on demand when the topic is not linked directly from SKILL.md. Each entry includes a token estimate so the agent can decide what's worth loading.
 
 3. **Individual reference files** — Loaded only when needed for a specific task. For example:
    - Helping with comma rules → `kommaregler.md` (~1.4k tokens)
    - Replacing bureaucratic language → `kansellisten.md` (~11k tokens)
    - A specific word question → `grep -rl "keyword" references/spraksporsmal/` → read one Q&A file (~500 tokens)
 
-The ~700k tokens of total reference content are **never loaded all at once**. In a typical interaction, the agent uses SKILL.md + INDEX.md + 1–3 reference files = **roughly 5k–20k tokens**, leaving plenty of room for the conversation and task.
+The ~700k tokens of total reference content are **never loaded all at once**. In a typical interaction, the agent reads SKILL.md and 1–3 relevant reference files, consulting INDEX.md only when needed.
 
 The 1,100+ Q&A files (~520k tokens) work the same way — the agent searches by filename or `grep` and reads individual answers as needed.
 

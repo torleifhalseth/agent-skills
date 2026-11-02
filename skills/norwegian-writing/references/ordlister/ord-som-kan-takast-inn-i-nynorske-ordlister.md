@@ -263,6 +263,7 @@ Her finn du ord med tysk eller dansk opphav som er vortne godtekne til oppførin
 | fruktbarheit |  | 1987 |
 | fulheit |  | 1984 |
 | fullbyrde |  | 1984 |
+| følast |  | 2026 |
 | følelse |  | 2000 |
 | føregå |  | 2000 |
 | førekome/førekomme |  | 2000 |

@@ -8,7 +8,7 @@ Kva kan *brain rot* eller *brainrot* kallast på norsk? Ordet viser til 1) sløv
 
 ## Svar
 
-**[I den norske Wikipedia-artikkelen](https://no.wikipedia.org/wiki/Brainrot) om emnet finn vi den direkte omsetjinga *hjerneròte* (bokmål *hjerneråte*). Ordet er er allereie teke i bruk i både tale og skrift, og det ser ut til å fungere bra.**
+**[I den norske Wikipedia-artikkelen](https://no.wikipedia.org/wiki/Brainrot) om emnet finn vi den direkte omsetjinga *hjerneròte* (bokmål *hjerneråte*). Ordet er allereie teke i bruk i både tale og skrift, og det ser ut til å fungere bra.**
 
 *Hjerneròte* høver godt om tilstanden (1), men ikkje fullt så godt om det som fører til han (2).
 

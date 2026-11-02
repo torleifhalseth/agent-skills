@@ -32,9 +32,9 @@ Det finnes et språkhistorisk grunnlag for å se det som i overskriften: Skrivem
 
 Dette gjelder bokmål, der det er valgfrihet. På nynorsk heter det bare *veg.* (Alle vegnavn i nynorskområder har skrivemåten *\-veg.*)
 
-Mange dialekter har fått -*ei-* på et annet sted i bøyningen: Bestemt form entall *vegen* har i uttalen for lenge siden blitt til *vegjen* og senere *veien.* Det er den fremre vokalen etter g-en (i dette tilfelletvokalen e) som har myknet g-en historisk, slik: -*ege-* *\> -egje- > -eie-*). /Ve:jen/ og /veien/ må regnes som likeverdige uttaleformer av skrivemåten *vegen*, også i nynorsk.
+Mange dialekter har fått -*ei-* på et annet sted i bøyningen: Bestemt form entall *vegen* har i uttalen for lenge siden blitt til *vegjen* og senere *veien.* Grunnen er at en såkalt fremre vokal etter g-en (en e eller i) har myknet opp g-en historisk, på denne måten: -*ege-* *\> -egje- > -eie-*. Uttaleformene /ve:jen/ og /veien/ må regnes som gyldige måter å uttale *vegen* med -g- på, også i nynorsk.
 
-I mange nynorskområder har *veg* endelsene *-er* og -*ene* i flertall, selv om det er et hankjønnsord. Da kan vi få uttaleformer som /veier/ og /veiene/. Men dette er helt utenfor nynorskrettskrivningen; der heter det *vegar* og *vegane* etter hovedregelen for hankjønnsord, og foran a må g leses som g etter vanlige regler for uttale av skrift. (Dialektuttale er en annen sak; i dialektene finner man alle kombinasjoner.)
+I mange nynorskområder har *veg* endelsene *-er* og -*ene* i flertall, selv om det er et hankjønnsord. Da kan vi få uttaleformer som /veier/ og /veiene/. Men dette er helt utenfor nynorskrettskrivningen; der heter det *vegar* og *vegane* etter hovedregelen for hankjønnsord, og foran a må g leses som g etter vanlige regler for uttale av skrift. (Dialektuttale er en sak for seg. I dialektene finner man alle kombinasjoner.)
 
 
 ---

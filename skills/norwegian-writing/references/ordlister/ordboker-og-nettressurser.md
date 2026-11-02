@@ -8,7 +8,7 @@ Lenkesamlingen nedenfor omfatter et utvalg allmennspråklige ordbøker som er gr
 
 -   [Bokmålsordboka og Nynorskordboka (Universitetet i Bergen og Språkrådet)](https://ordbokene.no/)
 -   [Det Norske Akademis ordbok](https://www.naob.no/)
--   [Norsk Ordbok (Universitetet i Bergen)](https://alfa.norsk-ordbok.no/?men=noob&mc0=no&mc1=ah)
+-   [Norsk Ordbok (Universitetet i Bergen)](https://norsk-ordbok.no)
 -   [Ivar Aasens Norsk Ordbog (1873)](https://aasen.ordboki.no/)
 -   [Fritzners ordbok over gammelnorsk (Universitetet i Bergen)](http://inger.uib.no/perl/search/search.cgi?appid=86&tabid=1275)
 -   [Norsk uttaleordbok (Berulfsen 1969, bare for norske IP-adresser)](https://www.nb.no/items/45aba4e2cf1a7f0ad6c3bb7ad8853339?page=0&searchText=Norsk%20uttaleordbok)

@@ -19,7 +19,7 @@ Norsk har et rikt ordforråd. At ikke alt er like godt kjent, er en annen sak. O
 
 ## Hos store forfattere
 
-I *[En bok om ord](https://www.nb.no/items/f4d5d9a26b920a52d0d33bcbf9f79449?page=51&searchText=%22hvor%20mange%20ord%20har%20vi%22)* (1971) står det at Wergeland skal ha brukt ca. 58 000 ulike ord, Hamsun 33 000–34 000 og Shakespeare ca. 29 000. Finn-Erik Vinje nevner litt andre tall i boka *[Som ordet går](https://www.nb.no/items/879a195e52d38ccb487d254792d125de?page=51&searchText=%22ord%20finnes%20det%20i%20norsk%22)* (1984):
+Henrik Wergeland skal ha brukt ca. 58 000 ulike ord, Hamsun vel 33 000 og Shakespeare ca. 29 000; se *[En bok om ord](https://www.nb.no/items/f4d5d9a26b920a52d0d33bcbf9f79449?page=51&searchText=%22hvor%20mange%20ord%20har%20vi%22)* (1971) og *[Norsk ordlære](https://www.nb.no/items/2673a3c8108b1068c1213301cdcc517b?page=15&searchText=%22wergeland%20hele%2058%20000%22)* (1997). Finn-Erik Vinje nevner litt andre tall i boka *[Som ordet går](https://www.nb.no/items/879a195e52d38ccb487d254792d125de?page=51&searchText=%22ord%20finnes%20det%20i%20norsk%22)* (1984):
 
 ![](/wp-content/uploads/antall-ord-i-norsk-2.png)
 

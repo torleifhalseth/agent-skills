@@ -10,7 +10,7 @@ Noen sier «Nå er det bare tida og veien», andre «Nå er det bare tida av vei
 
 **Det riktige er «tida og veien» (normalt uttalt /tia å veien/). Det er den varianten som kan spores lengst tilbake.**
 
-Det er er ikke lett å forstå hvordan uttrykket henger sammen, men meningen er at tida er knapp; man har ikke mer tid enn den man er nødt til å bruke på veien (altså til reisen eller oppgaven). Under *[tid](https://ordbøkene.no/bm/search?q=tid&scope=e&perPage=20)* i *Bokmålsordboka* står eksempelet *ha bare tida og veien*, med forklaringen ‘ikke mer tid enn en trenger’.
+Det er ikke lett å forstå hvordan uttrykket henger sammen, men meningen er at tida er knapp; man har ikke mer tid enn den man er nødt til å bruke på veien (altså til reisen eller oppgaven). Under *[tid](https://ordbøkene.no/bm/search?q=tid&scope=e&perPage=20)* i *Bokmålsordboka* står eksempelet *ha bare tida og veien*, med forklaringen ‘ikke mer tid enn en trenger’.
 
 I Steinar Schjøtts *Dansk-norsk ordbog* (1909) står det at *vi har ingen tid at spilde* ofte heter *d’er kje meir enn tidi og vegen* på norsk.
 

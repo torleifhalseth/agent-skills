@@ -6,25 +6,25 @@
 
 I allmennspråket og i løpende tekst generelt skal datoer skrives med rekkefølgen dag-måned-år:
 
-«den 5. juni 2014
-5\. juni 2014
-5.6.2014
-05.06.2014
-5.6.14
-05.06.14»
+«den 5. juni 2026
+5\. juni 2026
+5.6.2026
+05.06.2026
+5.6.26
+05.06.26»
 
 Dersom årstall er utelatt, skal det være punktum etter dag og måned: 5.6.
 
 En oppramsing kan se slik ut: både 16., 17. og 18. mai.
 
-Det skal ikke være skråstrek i datoangivelser. Ikke slik: 5/6 2014
+Det skal ikke være skråstrek i datoangivelser. Ikke slik: 5/6 2026
 
-Den tradisjonelle rekkefølgen dag-måned-år (f.eks. 17.05.2014) er i samsvar med vanlig talemål og hvordan rekkefølgen er når man skriver månedsnavnet fullt ut: 17. mai 2014.
+Den tradisjonelle rekkefølgen dag-måned-år (f.eks. 17.05.2026) er i samsvar med vanlig talemål og hvordan rekkefølgen er når man skriver månedsnavnet fullt ut: 17. mai 2026.
 
 I teknisk bruk kan datoer ha formatet år-måned-dag:
 
-«20140517
-2014-05-17»
+«20260517
+2026-05-17»
 
 Rekkefølgen år-måned-dag er norsk og internasjonal standard og mye brukt ved utveksling av data, i kronologiske lister m.m.
 
@@ -75,7 +75,7 @@ Det blir hjemmeeksamen 3.–6. juni.
 I tidsrommet 1.7.–2.8. har tannlegen ferie.
 Middagsservering kl. 13.00–15.00.
 
-Streken er en tankestrek (Alt + 0150), ikke en bindestrek. Det skal ikke være mellomrom før og etter streken.
+Streken er en tankestrek (Alt + 0150 eller Windows-tasten + bindestrek), ikke en bindestrek. Det skal ikke være mellomrom før og etter streken.
 
 Tankestreken står for både «fra» og «til». «Klokka 13–15» betyr altså 'fra klokka 13 til klokka 15'.
 

@@ -8,7 +8,7 @@ På mange statlege nettsider kan ein lese om *lækjemidlar* og *hjelpemidlar*. D
 
 ## Svar
 
-**Ja, det er gale. Det rette er fleire *hjelpemiddel* og fleire *[lækjemiddel](https://ordbokene.no/bm,nn/search?q=l%C3%A6kjemiddel&scope=ei)*.**
+**Ja, det er gale. Det rette er fleire *hjelpemiddel* og fleire *[lækjemiddel](https://ordbokene.no/nn/47345)*.**
 
 Inkjekjønnsordet [*middel*](https://ordbokene.no/nn/search?q=middel&pos=noun&scope=ei&perPage=20) heiter *middel* i fleirtal: *eit middel* – *fleire middel*, nett som *eit hus* – *fleire hus*. Vi får:
 

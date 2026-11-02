@@ -8,9 +8,14 @@ Hva heter det engelske verbet *to target* og adjektivet *targetable* på norsk?
 
 ## Svar
 
-Det kommer litt an på sammenhengen.
+**Det kommer an på sammenhengen.**
 
-## *To target* om målet
+Det kan være snakk om
+
+a) noe som *blinkes ut* (*et utblinkbart mål*), eller
+b) det som rettes inn mot dette målet (*et målrettbart middel*)
+
+## A) *To target* = å gjøre til mål
 
 Stor norsk-engelsk ordbok på ordnett.no fører opp fem oversettelser av verbet *target.* Dette er de tre første:
 
@@ -24,7 +29,7 @@ Vi kan legge til det velkjente uttrykket å ***[blinke (ut) noe](https://naob.no
 
 Jan G. Bjåli (mfl.) *Menneskekroppen: fysiologi og anatomi* (1998).
 
-## *To target* om middelet
+## B) *To target* = å rette inn et våpen/redskap
 
 Videre fører ordboka opp disse betydningene:
 
@@ -37,7 +42,7 @@ Betydning 4–5 handler altså om noe helt annet enn 1–3. I de tre første bet
 
 ## *Targetable*
 
-Dette ordet står ikke i den nevnte ordboka, men det kan bety ett av to:
+*Targetable* står ikke i den nevnte ordboka, men også dette ordet har to betydninger:
 
 a) som kan gjøres til blink/mål (jf. betydning 1–3 av *to target*) og
 

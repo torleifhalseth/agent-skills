@@ -12,39 +12,48 @@ Jeg undrer meg over den utbredte bruken av ordene *mamma* og *pappa* i norske me
 
 Det har blitt pekt på to dels motsatte, dels samvirkende trender i språkbruken i offentligheten i nyere tid: [intimisering og brutalisering](https://www.nb.no/items/8d6b3651e931ca5e080b496ae6513d5a?page=35&searchText=%22intimisering%20og%20brutalisering%22). Økende bruk av *mamma* og *pappa* er et godt eksempel på intimisering. Det er fremdeles mange som oppfatter *mamma* og *pappa* som både intimt og barnslig, men antallet kritikere minker trolig fortere enn noen gang.
 
+## Mor og far i gamle dager
+
+Det finnes ingen eksempler på bruk av *mamma* eller *pappa* i norske eller danske middelalderkilder. Derimot finnes det hundrevis av eksempler på varianter av *móðir* og *faðir*. De aller minste barna har nok alltid kunnet lage mamma-lignende lyder spontant, men *mamma* var definitivt ikke normal språkbruk i 1204 og høyst sannsynlig ikke noe ord i gammelnorsk i det hele tatt. Filmen ville altså blitt et hakk mindre anakronistisk om jenta hadde ropt *mor*.
+
+## *Mamma* og *pappa* kommer og går eller blir
+
+I nordiske historiske ordbøker står det at *mamma* og *pappa* ble lånt inn fra fransk eller tysk i høyere kretser på 1600-tallet. I disse kretsene kunne man også høre formene *mama* *og*  *papa*, med trykk på siste stavelse.
+
+I dansk døde bruken av *mamma* og *pappa* ut på 1900-tallet. Hovedgrunnen er at disse ordene aldri fikk feste i folkespråket, slik de etter hvert fikk hos oss. De var mer eller mindre forbeholdt adelen og velstående franskorienterte familier. Men *mama* og *papa* holdt seg likevel lenger på dansk enn på norsk i de snevre kretsene der ordene ble brukt.
+
+Norsk har nok i stor grad importert disse ordene via dansk, men danskene har altså kvittet seg med dem.
+
 ## Historisk spredning
 
-I nordiske ordbøker finner vi omtale av *mam(m)a* og *pap(p)a* som lån fra 1600-tallet, brukt i høyere fransk- eller tyskpåvirkede kretser. Men det er også nevnt som selvstendig dannelse i barnespråk. Vi finner ingen skriftlige belegg fra gammelnorsk. Selv om det ikke virker særlig sannsynlig, kan vi ikke helt utelukke at noen brukte det i Norge i 1204. Lignende ord eller lyder er generelt svært utbredt i barnespråk i store deler av verden (og i «baby talk» fra voksne til barn, se nedenfor).
-
-Alt tyder på at *mamma* og *pappa* har spredt seg langs flere linjer over lang tid.
+*Mamma* og *pappa* har spredt seg langs flere linjer over lang tid.
 
 **Geografisk:**
 
-1) fra utlandet (opprinnelig gjerne med trykk på siste stavelse: *mama*, *papa*)
+1) fra utlandet til byene og embetsmannsstanden på landet
 2) fra by til bygd
 
-Den lokale variasjonen har vært og er fremdeles stor. *Mamma* og *pappa* er ganske gamle ord i mange dialekter, og de har gjerne blitt brukt mest av barn og innenfor familien.
+Den lokale variasjonen har vært og er fremdeles stor. I noen dialekter har *mamma* og *pappa* etter hvert nokså lang tradisjon, i alle fall innenfor familien.
 
 **Gjennom samfunnslag:**
 
-1) fra visse borgerlige miljøer til andre borgerlige miljøer
+1) fra deler av overklassen til andre deler
 2) fra deler av overklassen til de brede lag
-3) fra deler av de brede lag til overklassen
+3) og den andre veien
 
 På 1800-tallet og tidlig på 1900-tallet var *mamma og pappa* relativt lite brukt i norsk voksenspråk utenom i dansk-norsken i borgerlige kretser. Det kan for eksempel nevnes at Arne Garborgs roman *Hos Mama* het *Hjaa ho Mor* på landsmål. Seinere har det sosiale forholdet delvis snudd seg, slik at bruk av *mor* og *far* nå kan være et tegn på såkalt borgerlig dannelse hos voksne.
 
-**Fra bruk i én sosial rolle til bruk i en annen (jf. alder, kjønn, familieforhold):**
+**Fra bruk i én sosial rolle til bruk i en annen:** 
 
-1) fra kjælespråk til vanlig språkbruk
-2) fra småbarnsspråk til ungdomsspråk og videre til voksenspråk
+1) fra småbarnsspråk til ungdomsspråk og videre til voksenspråk
+2) fra tiltale til omtale og dermed fra privat til offentlig språkbruk
 3) fra såkalt jentespråk til såkalt guttespråk
-4) fra tiltale til omtale og dermed fra privat til offentlig språkbruk
 
-Bruken av *mamma* og *pappa* kan ha blitt styrket gjennom kjælespråk brukt til barn, såkalt «baby talk» (jf. punkt 1). Når folk duller med barn, bruker de ikke bare ekstra barnslige ord (som *vovvovv*), de tyr også gjerne til «finere» former fra standardspråket. Selv brukere av bredt bygdemål kan for eksempel velge å si «lille venn» til små barn (altså i stedet for *litle* eller *vesle*). *Mamma* og *pappa* har begge egenskapene: finere og mer barnslig på en gang.
-
-«Aldersgrensa» (jf. punkt 2) har sikkert generelt vært høyere i tiltale enn i omtale (jf. punkt 4), og mange steder har det ikke vært noen aldersgrense for kvinner (jf. punkt 3).
+Kort sagt er «aldersgrensa» for intim språkbruk hevet.
 
 («Guttespråk» og «jentespråk» er ikke termer vi oppfordrer noen til å bruke, men de speiler realiteter i særlig eldre bymål, der det kunne være stor forskjell på hva man godtok av unge menn og unge kvinner i språkveien.)
+
+En litt uvanlig sammenheng mellom sosiolekt/standardspråk og intimitet kan nevnes i denne sammenhengen. Det gjelder kjælespråk brukt til barn, såkalt «baby talk». Når folk duller med barn, bruker de ikke bare ekstra barnslige ord (som *vovvovv*). Noen tyr også gjerne til «finere» former fra standardspråket. Selv brukere av bredt bygdemål kan for eksempel velge å si «lille venn» til små barn (altså i stedet for *litle* eller *vesle*). *Mamma* og *pappa* har begge egenskapene: finere og mer barnslig på en gang.
 
 ## Råd
 
