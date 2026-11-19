@@ -1,21 +1,42 @@
-# Skills
+# Agent Skills
 
-A collection of [Agent Skills](https://agentskills.io) — folders of instructions, scripts, and resources that AI agents load dynamically to improve performance on specialized tasks.
+A collection of [Agent Skills](https://agentskills.io/) for AI agents. Each skill is a self-contained directory with a `SKILL.md` and, when useful, supporting references or scripts.
 
-## Skills
+## Available skills
 
-| Skill | Description |
-| ----- | ----------- |
-| [norwegian-writing](skills/norwegian-writing) | Norwegian language writing guidelines and best practices based on official rules from Språkrådet |
+### `norwegian-writing`
+
+Norwegian writing guidance based on official spelling and grammar rules from Språkrådet.
+
+Use it to write or edit Bokmål and Nynorsk, check grammar and punctuation, improve plain language, or choose sensitive and inclusive wording.
+
+See [`skills/norwegian-writing/README.md`](skills/norwegian-writing/README.md) for its scope, sources, and maintenance details.
 
 ## Installation
 
-Install a skill using the [skills CLI](https://github.com/vercel-labs/skills):
+Install the skill using the method supported by your agent. For agents that load skills from `~/.agents/skills`, for example:
 
 ```bash
-npx skills add torleifhalseth/skills --skill norwegian-writing
+mkdir -p ~/.agents/skills
+cp -R skills/norwegian-writing ~/.agents/skills/
 ```
 
-## License
+The skill directory can also be added to a project's agent-specific skills directory. Consult the agent's documentation for its supported location and loading behavior.
 
-MIT
+## Skill structure
+
+```text
+skills/
+└── skill-name/
+    ├── SKILL.md       # Required instructions and activation description
+    ├── references/    # Optional supporting material loaded on demand
+    ├── scripts/       # Optional utilities used by the skill
+    ├── assets/        # Optional files used in skill outputs
+    └── lib/           # Optional shared code for scripts
+```
+
+See [`AGENTS.md`](AGENTS.md) for repository conventions when adding or updating skills.
+
+## License and attribution
+
+See each skill's directory for its license and source attributions. Reference content may have separate source terms from the skill instructions.
