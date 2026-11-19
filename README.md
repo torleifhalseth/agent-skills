@@ -4,6 +4,18 @@ A collection of [Agent Skills](https://agentskills.io/) for AI agents. Each skil
 
 ## Available skills
 
+### `frontend-design`
+
+Define the visual direction for a new interface or redesign. Turn the brief into a layout, type scale, palette, and clear visual hierarchy.
+
+See [`skills/frontend-design/SKILL.md`](skills/frontend-design/SKILL.md).
+
+### `frontend-code`
+
+Implement or review web interfaces for accessibility, responsive behavior, interaction states, and performance.
+
+See [`skills/frontend-code/SKILL.md`](skills/frontend-code/SKILL.md).
+
 ### `norwegian-writing`
 
 Norwegian writing guidance based on official spelling and grammar rules from Språkrådet.
@@ -14,11 +26,11 @@ See [`skills/norwegian-writing/README.md`](skills/norwegian-writing/README.md) f
 
 ## Installation
 
-Install the skill using the method supported by your agent. For agents that load skills from `~/.agents/skills`, for example:
+Install the skill using the method supported by your agent. For agents that load skills from `~/.agents/skills`, for example, copy the desired skill directory:
 
 ```bash
 mkdir -p ~/.agents/skills
-cp -R skills/norwegian-writing ~/.agents/skills/
+cp -R skills/frontend-design ~/.agents/skills/
 ```
 
 The skill directory can also be added to a project's agent-specific skills directory. Consult the agent's documentation for its supported location and loading behavior.
